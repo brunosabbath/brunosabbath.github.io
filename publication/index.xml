@@ -1,266 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/publication/</link>
-    <description>Recent content in Publications on Cheng-Jun Wang</description>
+    <title>Publications on Jiang Shu, Ph.D.</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Jiang Shu, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Cheng-Jun Wang</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://chengjunwang.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website</title>
-      <link>https://chengjunwang.com/publication/bandwagon/</link>
-      <pubDate>Sun, 03 Mar 2019 22:20:56 +0800</pubDate>
+      <title>A diet defined by its content of bovine milk exosomes and their RNA cargos has moderate effects on gene expression, amino acid profiles and grip strength in skeletal muscle in C57BL/6 mice</title>
+      <link>/publication/amy-exosome-paper/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/bandwagon/</guid>
-      <description>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website
-Cheng-Jun Wang $ ^{a,b}$ * , Jonathan J.H. Zhu ${^b}$
-$^a$ Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University, Nanjing, China
-$^b$ Web Mining Lab, Department of Media and Communication, City University of Hong Kong, Hong Kong, China
-Keywords Information Diffusion; Collective Gatekeeping; Interpersonal Effects; Bandwagon Effects; Threshold Model</description>
-    </item>
-    
-    <item>
-      <title>找回失落的参考群体：对“沉默的螺旋”进行多主体建模</title>
-      <link>https://chengjunwang.com/publication/abm-sos/</link>
-      <pubDate>Tue, 01 Jan 2019 11:33:49 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/abm-sos/</guid>
-      <description>引用: 王成军、党明辉、杜骏飞(2019).找回失落的参考群体：对“沉默的螺旋”进行多主体建模. 新闻大学, tba
-[Abstract] The purpose of this study is threefold: first, to bring reference groups back into the framework of spiral of silence (SOS) by proposing an integrated framework of dual opinion climate; second, to investigate the boundary conditions of SOS; third, to identify the characteristics of SOS in terms of spatial variation and temporal evolution. Modeling SOS with agent-based models, the findings suggest that there is no guarantee of SOS with reference groups being brought back; the stable existence of SOS is contingent upon the comparative strength of mass media over reference groups; SOS is size-dependent upon reference groups and the population; the growth rate of SOS decreases over time.</description>
-    </item>
-    
-    <item>
-      <title>The Hidden Shape of Stories Reveals Positivity Bias and Gender Bias</title>
-      <link>https://chengjunwang.com/publication/storytelling/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/storytelling/</guid>
-      <description>The manuscript titled The Hidden Shape of Stories Reveals Positivity Bias and Gender Bias authored by Huimin Xu et al. has already appeared on arxiv. Please check this link https://arxiv.org/pdf/1811.04599.pdf. So far, it still lacks theoretical underpinnings, and your comments are welcome.</description>
-    </item>
-    
-    <item>
-      <title>计算传播学导论</title>
-      <link>https://chengjunwang.com/publication/ccr-book/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/ccr-book/</guid>
-      <description>《计算传播学导论》
- 作者: 张伦 / 王成军 / 许小可 出版社: 北京师范大学出版社 出版年: 2018-9 页数: 239 装帧: 平装 ISBN: 9787303241200   新书发布！[号外] 11月20号入库发货！《计算传播学导论》终于在当当预售了，（点下面传媒学术网公号里的链接或者直接在当当搜索“计算传播学”）～ 通过预售链接购买（有折扣哦！)。本书里总结了我们这几年在相关课程或讲习班的主要教学经验。还有很多不完善的地方，教学相长，不断改进吧。
- &amp;ldquo;Introduction to Computational Communication&amp;rdquo; (In Chinese 计算传播学导论) now available on dangdang.com for pre-order! http://product.dangdang.com/25581097.html
-二十一世纪是计算社会科学的时代。1998年邓肯·瓦茨关于小世界网络的模型和1999年阿尔伯特·巴拉巴西关于幂律和无标度网络的研究复兴了网络科学。一石激起千层浪，在学术领域产生了深远的影响。对于万维网上的人类行为的研究也形成了一个子领域，被称之为万维网科学(Web Science)；伴随着社交媒体等数字媒体的发展，社会网络分析开始受到前所未有的重视，社交网络上的信息流动网络研究也引起广泛的兴趣；与此同时，机器学习和数据科学取得了突飞猛进的发展，进一步加速了计算化的浪潮；在新闻传播产业当中，数据驱动的新闻生产、计算广告和媒体推荐系统开始成为席卷世界的潮流。面对海量的互联网数据、持续困扰人类的重大社会问题、崭新的理论视角、诱人的物理学模型，在世界大战中发展起来的新闻传播学研究会走向什么地方？这构成了困扰我们的时代问题，而计算传播学正是试图回应这一时代叩问的一种尝试。在大数据和人工智能时代，未来的计算社会科学家更需要训练问题意识、培养计算思维、增强数据挖掘和分析的能力，而这正是本书写作的一个重要目的。
-计算传播学将传播学研究置于数据和计算方法的坚固基础上。数据作为一种新的石油，解放了社会科学家对于理论的过度依赖。随着数字媒体的发展，人类社会积累的人类传播行为数据的规模日趋庞大，详尽地记录了社会发展和人类互动的各种细节。运用这些生动的人类传播行为数据，可以从更细的颗粒度、更大的样本规模上让我们捕捉社会的发展。毫无疑问，对于数据的挖掘依赖于人类的计算能力的提高，依赖于跨学科的研究方法和研究视角。我们人类传播行为的基因恰恰隐藏在互动性当中，但这种人类传播行为的互动性本身也使得传播过程充满了复杂性。网络科学为捕捉到纷繁复杂的人类互动提供了一个很好的视角。从数据出发，借助于计算方法和好的理论视角，就可以更好地刻画人类传播行为的模式和法则。
-目标读者  致力于进行“计算社会科学” 研究的本科生与研究生 准备开设《计算传播学》或《计算社会科学》课程的青年教师 对于定量传播学研究有基本了解 对于Python、R等软件仅初步了解 致力于日后进入相关数据科学领域工作的学生  本书特色  强调跨学科合作 （传播学、网络科学、计算机科学） 引用大量发表于Science、Nature、Proceedings of National Sciences (PNAS) 等国际顶级期刊的论文 附加主要Python程序代码  书籍网站 Slides和Code见：https://github.com/computational-class/ccrbook
- Python代码
- 教案 案例  导教班及教学研讨会  2019年 培训对象：利用本书作为核心教材的青年教师  如何购买？  上市时间：10月中下旬 售价：49.</description>
-    </item>
-    
-    <item>
-      <title>计算社会科学视野下的新闻学研究：挑战与机遇</title>
-      <link>https://chengjunwang.com/publication/computational-journalism/</link>
-      <pubDate>Tue, 15 Aug 2017 11:33:49 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/computational-journalism/</guid>
-      <description>引用: 王成军(2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学,(04):26-32 （入选人大复印资料新闻与传播2017年第10期）
-Journalism Studies in the Perspective of Computational Social Science: Challenges and Opportunities WANG Cheng-Jun1
-[Abstract] Our society has entered the brand new era of computational social science. The new style of news production and the new paradigm of computational social science created both challenges and opportunities for the development of classic journalism research, which empower journalism research in the aspects of data, computational methods, network theory, and etc.</description>
-    </item>
-    
-    <item>
-      <title>Leveraging the Flow of Collective Attention for Computational Communication Research</title>
-      <link>https://chengjunwang.com/publication/flow-network-analysis/</link>
-      <pubDate>Thu, 15 Jun 2017 22:20:56 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/flow-network-analysis/</guid>
-      <description>The Panel of Social Networks and Computational Communication, The XXXVII Sunbelt Social Networks Conference of the International Network for Social Network Analysis(INSNA), May 30th – June 4th, 2017 Beijing, China. 网络与数据科学前沿论坛，2017年11月11-12日，西北工业大学，国际会议中心第二会议室，西安，中国  In preparing.</description>
-    </item>
-    
-    <item>
-      <title>With Great Popularity Avoids Great Responsibility: The Influentials&#39; Participation in Public Issues on Sina Weibo</title>
-      <link>https://chengjunwang.com/publication/weibo-participation/</link>
-      <pubDate>Thu, 15 Jun 2017 22:20:56 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/weibo-participation/</guid>
-      <description>To be submitted.</description>
-    </item>
-    
-    <item>
-      <title>Analyzing Mobile Phone Data With Network Science</title>
-      <link>https://chengjunwang.com/publication/ica2017/</link>
-      <pubDate>Sun, 14 May 2017 22:03:57 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/ica2017/</guid>
-      <description>2017 ICA Conference Temporal and Spatial Analysis of Mobility Data Sat, May 27, 12:30 to 13:45, Hilton San Diego Bayfront, 3, Aqua 307
-Session Submission Type: Panel
-Abstract Every human behavior, including communicative behavior, involves four basic elements (4Ws): Who does What at When and Where. Out of these 4Ws, we have accumulated some knowledge about Who and What with traditional research methods (e.g., survey, experiment, and content analysis). However, due to the unavailability of time-stamped and geo-tagged data, little is known about the When (i.</description>
-    </item>
-    
-    <item>
-      <title>作为社会动员过程的互联网众筹公益：以腾讯乐捐为例</title>
-      <link>https://chengjunwang.com/publication/crowdfunding-charity/</link>
-      <pubDate>Thu, 09 Mar 2017 10:49:09 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/crowdfunding-charity/</guid>
-      <description>In submission.</description>
-    </item>
-    
-    <item>
-      <title>Building Open Teams to Leverage the Power of Turnover</title>
-      <link>https://chengjunwang.com/publication/team-turnover/</link>
-      <pubDate>Thu, 02 Mar 2017 22:20:24 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/team-turnover/</guid>
-      <description>Keywords:team science; turnover; task allocation; uncertainty; collective wisdom
-This is an ongoing work under preparation.</description>
-    </item>
-    
-    <item>
-      <title>空间约束的人类行为</title>
-      <link>https://chengjunwang.com/publication/lbs-behavior/</link>
-      <pubDate>Fri, 24 Feb 2017 15:23:43 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/lbs-behavior/</guid>
-      <description>王成军、吴令飞(2017)空间约束的人类行为. 胡泳、王俊秀（编）《连接之后: 公共空间重建与权力再分配》.北京:人民邮电出版社. pp. 262-271</description>
-    </item>
-    
-    <item>
-      <title>Jumping over the Network Threshold of Information Diffusion</title>
-      <link>https://chengjunwang.com/publication/weibo-threshold/</link>
-      <pubDate>Sat, 18 Feb 2017 22:20:56 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/weibo-threshold/</guid>
-      <description>To be submitted.</description>
-    </item>
-    
-    <item>
-      <title>找回失落的参考群体：对“沉默的螺旋”进行多主体建模</title>
-      <link>https://chengjunwang.com/publication/sos-agent/</link>
-      <pubDate>Sat, 18 Feb 2017 22:20:24 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/sos-agent/</guid>
-      <description>Abstract：The purpose of this study is threefold: first, to bring reference groups back into the framework of spiral of silence (SOS) by proposing an integrated framework of dual opinion climate; second, to investigate the boundary conditions of SOS; third, to identify the characteristics of SOS in terms of spatial variation and temporal evolution. Modeling SOS with agent-based models, the findings suggest that there is no guarantee of SOS with reference groups being brought back; the stable existence of SOS is contingent upon the comparative strength of mass media over reference groups; SOS is size-dependent upon reference groups and the population; the growth rate of SOS decreases over time.</description>
-    </item>
-    
-    <item>
-      <title>The Landscape of Information Diffusion on Sina Weibo</title>
-      <link>https://chengjunwang.com/publication/weibo-landscape/</link>
-      <pubDate>Sat, 18 Feb 2017 22:13:01 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/weibo-landscape/</guid>
-      <description>Under review.</description>
-    </item>
-    
-    <item>
-      <title>Tracing the Attention of Moving Citizens</title>
-      <link>https://chengjunwang.com/publication/tracing-attention/</link>
-      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/tracing-attention/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>The Collective Direction of Attention Diffusion</title>
-      <link>https://chengjunwang.com/publication/collective-direction/</link>
-      <pubDate>Mon, 05 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/collective-direction/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>计算传播学的起源、概念和应用</title>
-      <link>https://chengjunwang.com/publication/cc-origin/</link>
-      <pubDate>Sun, 15 May 2016 11:53:36 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/cc-origin/</guid>
+      <guid>/publication/amy-exosome-paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>大数据计算与《纸牌屋》生成</title>
-      <link>https://chengjunwang.com/publication/big-data-house/</link>
-      <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+      <title>A systematic approach to RNA-associated motif discovery</title>
+      <link>/publication/mds2/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/big-data-house/</guid>
+      <guid>/publication/mds2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self-Disclosure to Parents in Emerging Adulthood</title>
-      <link>https://chengjunwang.com/publication/self-disclosure-child/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <title>A new statistical model for genome-scale microRNA target prediction</title>
+      <link>/publication/mirna-target-prediction/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/self-disclosure-child/</guid>
+      <guid>/publication/mirna-target-prediction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mining Social Entrepreneurship Strategies Using Topic Modeling</title>
-      <link>https://chengjunwang.com/publication/social-entrepreneurship/</link>
-      <pubDate>Mon, 21 Mar 2016 12:22:55 +0800</pubDate>
+      <title>Dynamic and modularized microRNA regulation and its implication in human cancers</title>
+      <link>/publication/mirna-dynamic-regulation/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/social-entrepreneurship/</guid>
+      <guid>/publication/mirna-dynamic-regulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>2015年中国新闻传播学论著评析</title>
-      <link>https://chengjunwang.com/publication/com-books2015/</link>
-      <pubDate>Tue, 08 Mar 2016 12:15:21 +0800</pubDate>
+      <title>A new system for human microRNA functional evaluation and network construction</title>
+      <link>/publication/mirna-similarity-assessment/</link>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/com-books2015/</guid>
-      <description>杜骏飞, 曲飞帆, 王成军（2016）2015年中国新闻传播学论著评析. 新闻与传播研究，12：108-119</description>
-    </item>
-    
-    <item>
-      <title>The scaling of attention networks</title>
-      <link>https://chengjunwang.com/publication/scaling-networks/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/scaling-networks/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>“今日头条”的技术逻辑：网络爬虫&#43;矩阵筛选</title>
-      <link>https://chengjunwang.com/publication/toutiao-logic/</link>
-      <pubDate>Mon, 05 Oct 2015 12:15:21 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/toutiao-logic/</guid>
+      <guid>/publication/mirna-similarity-assessment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>计算传播学:作为计算社会科学的传播学</title>
-      <link>https://chengjunwang.com/publication/cc-intro/</link>
-      <pubDate>Fri, 13 Feb 2015 12:03:36 +0800</pubDate>
+      <title>Pluralistic and stochastic gene regulation: examples, models, and consistent theory</title>
+      <link>/publication/tf-co-regulation/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/cc-intro/</guid>
+      <guid>/publication/tf-co-regulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>计算社会科学在新闻传播研究中的应用</title>
-      <link>https://chengjunwang.com/publication/ccs-application/</link>
-      <pubDate>Thu, 20 Mar 2014 12:18:49 +0800</pubDate>
+      <title>Human absorbable dietary microRNAs prediction based on an ensemble manifold ranking model</title>
+      <link>/publication/mirna-cross-transportation-bibm/</link>
+      <pubDate>Mon, 09 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/ccs-application/</guid>
+      <guid>/publication/mirna-cross-transportation-bibm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Discussing Occupy Wall Street on Twitter</title>
-      <link>https://chengjunwang.com/publication/dicuss-ows-tweets/</link>
-      <pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate>
+      <title>Computational characterization of exogenous microRNAs that can be transferred into human circulation</title>
+      <link>/publication/mirna-cross-transportation/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://chengjunwang.com/publication/dicuss-ows-tweets/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <guid>/publication/mirna-cross-transportation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dietary MicroRNA Database (DMD): An archive database and analytic tool for microRNAs in human foods</title>
+      <link>/publication/mirna-dmd/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-dmd/</guid>
+      <description></description>
     </item>
     
   </channel>

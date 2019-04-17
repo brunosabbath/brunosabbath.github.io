@@ -1,1706 +1,464 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cheng-Jun Wang on Cheng-Jun Wang</title>
-    <link>https://chengjunwang.com/</link>
-    <description>Recent content in Cheng-Jun Wang on Cheng-Jun Wang</description>
+    <title>Jiang Shu, Ph.D. on Jiang Shu, Ph.D.</title>
+    <link>/</link>
+    <description>Recent content in Jiang Shu, Ph.D. on Jiang Shu, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Cheng-Jun Wang</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>石头记</title>
-      <link>https://chengjunwang.com/book/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <title>Academic</title>
+      <link>/backup/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://chengjunwang.com/book/hero/</guid>
+      <guid>/backup/hero/</guid>
+      <description>&lt;p&gt;The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀
+&lt;br&gt;
+&lt;small&gt;&lt;a id=&#34;academic-release&#34; href=&#34;https://sourcethemes.com/academic/tags/updates&#34;&gt;Latest release&lt;/a&gt;&lt;/small&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;iframe style=&#34;display: inline-block;&#34; src=&#34;https://ghbtns.com/github-btn.html?user=gcushen&amp;amp;repo=hugo-academic&amp;amp;type=star&amp;amp;count=true&amp;amp;size=large&#34; scrolling=&#34;0&#34; width=&#34;160px&#34; height=&#34;30px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;iframe style=&#34;display: inline-block;&#34; src=&#34;https://ghbtns.com/github-btn.html?user=gcushen&amp;amp;repo=hugo-academic&amp;amp;type=fork&amp;amp;count=true&amp;amp;size=large&#34; scrolling=&#34;0&#34; width=&#34;158px&#34; height=&#34;30px&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+  (function defer() {
+    if (window.jQuery) {
+      jQuery(document).ready(function(){
+        GetLatestReleaseInfo();
+      });
+    } else {
+      setTimeout(function() { defer() }, 50);
+    }
+  })();  
+  function GetLatestReleaseInfo() {
+    $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) {
+      let release = json[0];
+      // let downloadURL = release.zipball_url;
+      $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name);  
+    });    
+}  
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/backup/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/backup/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/backup/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/backup/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/backup/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/backup/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A diet defined by its content of bovine milk exosomes and their RNA cargos has moderate effects on gene expression, amino acid profiles and grip strength in skeletal muscle in C57BL/6 mice</title>
+      <link>/publication/amy-exosome-paper/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/amy-exosome-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic approach to RNA-associated motif discovery</title>
+      <link>/publication/mds2/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mds2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new statistical model for genome-scale microRNA target prediction</title>
+      <link>/publication/mirna-target-prediction/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-target-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic and modularized microRNA regulation and its implication in human cancers</title>
+      <link>/publication/mirna-dynamic-regulation/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-dynamic-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new system for human microRNA functional evaluation and network construction</title>
+      <link>/publication/mirna-similarity-assessment/</link>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mirna-similarity-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pluralistic and stochastic gene regulation: examples, models, and consistent theory</title>
+      <link>/publication/tf-co-regulation/</link>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tf-co-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/getting-started/</guid>
       <description>
 
-&lt;h1 id=&#34;不死的文学欲望&#34;&gt;不死的文学欲望&lt;/h1&gt;
+&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
 
-&lt;p&gt;石头大名叫&lt;a href=&#34;https://book.douban.com/review/8571631/&#34; target=&#34;_blank&#34;&gt;斯通纳&lt;/a&gt;，父母都是农民，石头从小就习惯了干农活，但他渴望逃离繁重的让人窒息的农活，在往复的劳作中，石头看不到活着的意义。他希望做一些不一样的事，可以不像父母那样，可以逃离他出生的土地。&lt;/p&gt;
-
-&lt;p&gt;新的农业技术的普及给农业带来的新的挑战，石头爸觉得娃必须要学点本事才能帮助自己，于是石头就被送去读了大学里的农学专业。农业科学没有物理学的那种宏达理论，搞来搞去都是些育种化肥之类的东西，石头觉得没意思。因为听了堂文学课看了几本讲诗歌的书，石头决意换个活法。他不想读农学了，转而去学文学。&lt;/p&gt;
-
-&lt;p&gt;文学能有什么用呢？不能给农业增产，只能让内心的欲望平静。石头一路读到了博士，他的老板给学校写了一个申请，石头就留校任教了。对石头而言，这很好。虽然帮不到爸爸，但可以自食其力，在象牙塔的贫穷里追寻平静的欲望。石头当然知道爱国主义，然而“男儿生当带吴钩”的豪情感染不了他。他对战争和权力机器嗤之以鼻。同样嗤之以鼻的还有他的老板，看着文学在战争面前变成碎屑，看着喜欢的学生冲进战场灰飞烟灭，看着文学没有了观众，老板很绝望，死了。一块读书的时候，石头有两个小伙伴，小欧和戈登。他俩没有石头那么耐得住寂寞，欧洲的战事一起，他们就参军了。小欧很快阵亡，而戈登活下来回到大学里和石头成为了同事。虽然石头和戈登是好朋友，他们俩注定不一样。对权力敏感的戈登一回到校园就盯上了院长的职位，从代理系主任开始干起。而石头只喜欢写书、教书。&lt;/p&gt;
-
-&lt;p&gt;石头的情感爆发了，他臆想着和一个银行家的漂亮女儿度过一生快乐的时光。那几乎是初恋，他义无反顾，把这个未来的妻子追到了手，还很快结婚了。然而，近乎清教徒的银行家女儿从小就在禁欲的文化中长大，她非常激烈地反抗充满了文学欲望的石头，连肢体亲密接触都变成了恶心的事情。只是为了有一个稳定的婚姻，她为石头生下了一个女儿。此外，她继承了父亲的经济头脑，向父亲借了一大笔钱在大学旁买了一个很体面的大房子，房贷当然由石头来背负。&lt;/p&gt;
-
-&lt;p&gt;石头投身到学术中，他的第一本书给他带来了学术声誉，如愿以偿拿到了终身教职。但是教学也有陷阱，因为他拒绝让后来成为系主任的老赵的学生通过答辩，而与老赵结下了梁子。更没有料想到老赵心胸狭窄，对他处处刁难，让他开很多助教才会上的课。家庭里也不顺，石头对女儿非常喜爱，他妻子却百般刁难嫉妒。石头妻子想尽方法让石头没有时间和女儿相处。石头在事业和家庭都遇到了强劲的对手，几乎万念俱灰。&lt;/p&gt;
-
-&lt;p&gt;40多岁的时候，一个年轻的女学生进入了石头的生活。他们俩相互彼此爱慕，走到一起。女学生和石头一样充满了文学的理想主义，石头感受到了最快乐的平静生活。值得一提的是，石头老婆对于丈夫出轨非常开明，她很快就察觉却丝毫不干预，很有信心地预言很快这场快乐的露水情缘就会结束。女学生的到来使得石头重新对学术燃起了兴趣。&lt;/p&gt;
-
-&lt;p&gt;果然，一切如梦幻泡影，系主任老赵抓住机会要求女学生退学，石头没有办法，女学生独自离开。石头备受打击，但女学生给他留下的理想主义的文学欲望让他站了起来，通过改变教学大纲的方式和系主任斗争。&lt;/p&gt;
-
-&lt;p&gt;石头的女儿在痛苦的家庭环境下长大，她一直希望逃离家庭，正如她的妈妈当年毫不犹豫地嫁给石头也是为了逃离一样。女儿怀孕了，石头老婆顺水推舟放女儿走了。女儿远嫁，不愿再回来。&lt;/p&gt;
-
-&lt;p&gt;石头情人的书出版了，广受赞誉，拿到了一个知名大学的终身教职。石头再次读到那本他付出很多心血的书，心神为之震颤。&lt;/p&gt;
-
-&lt;p&gt;一转眼十年过去了，系主任快退休了，他想在自己下台之前把石头搞走，让石头提前退休。石头再次反抗，却不料身患重症，癌症晚期，只好退休。石头一辈子追求文学的理想主义，淡泊名利，恪尽职守，待人宜宽，却遭受了来自事业、家庭和命运的三重打击。他乐观过，颓废过，爱过，恨过，得过且过，活过，最后死了。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website</title>
-      <link>https://chengjunwang.com/publication/bandwagon/</link>
-      <pubDate>Sun, 03 Mar 2019 22:20:56 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/bandwagon/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Cheng-Jun Wang $ ^{a,b}$ * , Jonathan J.H. Zhu ${^b}$&lt;/p&gt;
-
-&lt;p&gt;$^a$ Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University, Nanjing, China&lt;/p&gt;
-
-&lt;p&gt;$^b$ Web Mining Lab, Department of Media and Communication, City University of Hong Kong, Hong Kong, China&lt;/p&gt;
-
-&lt;h2 id=&#34;keywords&#34;&gt;Keywords&lt;/h2&gt;
-
-&lt;p&gt;Information Diffusion; Collective Gatekeeping; Interpersonal Effects; Bandwagon Effects; Threshold Model&lt;/p&gt;
-
-&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Drawing on threshold models to capture the interpersonal effects and collective gatekeeping, we test our hypothesis with two novel datasets of information diffusion on social media.&lt;/li&gt;
-&lt;li&gt;The findings demonstrate that both bandwagon effect and interpersonal effect play important roles in collective gatekeeping on social media.&lt;/li&gt;
-&lt;li&gt;The bandwagon of collective gatekeepers is the primary driver for online news diffusion&lt;/li&gt;
-&lt;li&gt;The bandwagon effect of collective gatekeeping is moderated by the strength of interpersonal effects.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Telematics and Informatics&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Received at Editorial Office 2 Jul 2018&lt;/li&gt;
-&lt;li&gt;Article 3rd revised 19 Feb 2019&lt;/li&gt;
-&lt;li&gt;Article accepted for publication
-3 Mar 2019&lt;/li&gt;
+&lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
+&lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Please cite this article as:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Wang, C-J. * , Zhu, J.J.H., Jumping onto the Bandwagon of Collective Gatekeepers: Testing the Bandwagon Effect of Information Diffusion on Social News Website, Telematics and Informatics (2019), doi: &lt;a href=&#34;https://doi.org/10.1016/j.tele.2019.03.001&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1016/j.tele.2019.03.001&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>找回失落的参考群体：对“沉默的螺旋”进行多主体建模</title>
-      <link>https://chengjunwang.com/publication/abm-sos/</link>
-      <pubDate>Tue, 01 Jan 2019 11:33:49 +0800</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/abm-sos/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;引用&lt;/strong&gt;: 王成军、党明辉、杜骏飞(2019).找回失落的参考群体：对“沉默的螺旋”进行多主体建模. 新闻大学, tba&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[Abstract]&lt;/strong&gt; The purpose of this study is threefold: first, to bring reference groups back into the framework of spiral of silence (SOS) by proposing an integrated framework of dual opinion climate; second, to investigate the boundary conditions of SOS; third, to identify the characteristics of SOS in terms of spatial variation and temporal evolution. Modeling SOS with agent-based models, the findings suggest that there is no guarantee of SOS with reference groups being brought back; the stable existence of SOS is contingent upon the comparative strength of mass media over reference groups; SOS is size-dependent upon reference groups and the population; the growth rate of SOS decreases over time. Thus, this research presents an extension of the SOS theory.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;[Key Words]&lt;/strong&gt; spiral of silence; agent-based model; reference group; size-dependent; computational communication research&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Hidden Shape of Stories Reveals Positivity Bias and Gender Bias</title>
-      <link>https://chengjunwang.com/publication/storytelling/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/storytelling/</guid>
-      <description>&lt;p&gt;The manuscript titled The Hidden Shape of Stories Reveals Positivity Bias and Gender Bias authored by Huimin Xu et al.  has already appeared on arxiv. Please check this link &lt;a href=&#34;https://arxiv.org/pdf/1811.04599.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1811.04599.pdf&lt;/a&gt;. So far, it still lacks theoretical underpinnings, and your comments are welcome.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>大数据时代的社会科学范式转型</title>
-      <link>https://chengjunwang.com/talk/yznu-talk/</link>
-      <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/talk/yznu-talk/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;讲座时间：2018年10月25日下午14:30&lt;/li&gt;
-&lt;li&gt;讲座地点：长江师范学院摇光学术报告厅&lt;/li&gt;
-&lt;li&gt;主讲人：王成军 博士&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;讲座内容&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;社会科学的发展经历了两百多年的时间，经历了从兴起、发展到现在的范式转型的变化过程。随着数字媒体的发展，人类社会积累的人类社会行为数据的规模日趋庞大，详尽地记录了社会发展和人类互动的各种细节。运用这些数据，可以从更细的颗粒度、更大的样本规模上让我们捕捉社会的发展；同时，新的理论视角和社会问题开始涌现，例如网络科学开始受到前所未有的重视，社交网络上的信息流动网络研究也引起广泛的兴趣；另外，机器学习和数据科学等计算方法取得了突飞猛进的发展，进一步加速了社会科学计算化的浪潮。&lt;/p&gt;
-
-&lt;p&gt;从数据出发，借助于计算方法和好的理论视角，可以更好地刻画人类的社会行为的模式和法则。2009年，David Lazar，Alex Pentlend等多位著名学者共同发表题为Computational Social Sciences文章，标志着“计算社会科学”这一新兴学科的建立。“计算社会科学”旨在通过对海量数据的收集、处理、存储海量规模数据，同时利用计算技术（例如自动内容分类、语义建模、自然语言处理、模拟和统计模型）分析用户行为。&lt;/p&gt;
-
-&lt;p&gt;本报告将首先回顾社会科学的兴起、讨论社会科学研究的特点、介绍计算社会科学的兴起，另外，还会对隐私问题和数据垄断等问题进行讨论。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;报告人简介&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;王成军，传播学博士。现为南京大学新闻传播学院副教授，奥美数据科学实验室主任，计算传播学实验中心副主任，兼任香港城市大学互联网挖掘实验室研究员、计算传播学研究委员会秘书长（2018-2020）。参与翻译《社会网络分析：方法与实践》(2013)、合著《社交网络上的计算传播学》(2015)、合著《计算传播学导论》（2018）。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>计算传播学导论</title>
-      <link>https://chengjunwang.com/publication/ccr-book/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/publication/ccr-book/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;《计算传播学导论》&lt;/strong&gt;&lt;/p&gt;
-
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
 &lt;ul&gt;
-&lt;li&gt;作者: 张伦 / 王成军 / 许小可&lt;/li&gt;
-&lt;li&gt;出版社: 北京师范大学出版社&lt;/li&gt;
-&lt;li&gt;出版年: 2018-9&lt;/li&gt;
-&lt;li&gt;页数: 239&lt;/li&gt;
-&lt;li&gt;装帧: 平装&lt;/li&gt;
-&lt;li&gt;ISBN: 9787303241200&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;新书发布！[号外] 11月20号入库发货！《计算传播学导论》终于在当当预售了，（点下面传媒学术网公号里的链接或者直接在当当搜索“计算传播学”）～ 通过预售链接购买（有折扣哦！)。本书里总结了我们这几年在相关课程或讲习班的主要教学经验。还有很多不完善的地方，教学相长，不断改进吧。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&amp;ldquo;Introduction to Computational Communication&amp;rdquo; (In Chinese 计算传播学导论) now available on dangdang.com  for pre-order! &lt;a href=&#34;http://product.dangdang.com/25581097.html&#34; target=&#34;_blank&#34;&gt;http://product.dangdang.com/25581097.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;二十一世纪是计算社会科学的时代。1998年邓肯·瓦茨关于小世界网络的模型和1999年阿尔伯特·巴拉巴西关于幂律和无标度网络的研究复兴了网络科学。一石激起千层浪，在学术领域产生了深远的影响。对于万维网上的人类行为的研究也形成了一个子领域，被称之为万维网科学(Web Science)；伴随着社交媒体等数字媒体的发展，社会网络分析开始受到前所未有的重视，社交网络上的信息流动网络研究也引起广泛的兴趣；与此同时，机器学习和数据科学取得了突飞猛进的发展，进一步加速了计算化的浪潮；在新闻传播产业当中，数据驱动的新闻生产、计算广告和媒体推荐系统开始成为席卷世界的潮流。面对海量的互联网数据、持续困扰人类的重大社会问题、崭新的理论视角、诱人的物理学模型，在世界大战中发展起来的新闻传播学研究会走向什么地方？这构成了困扰我们的时代问题，而计算传播学正是试图回应这一时代叩问的一种尝试。在大数据和人工智能时代，未来的计算社会科学家更需要训练问题意识、培养计算思维、增强数据挖掘和分析的能力，而这正是本书写作的一个重要目的。&lt;/p&gt;
-
-&lt;p&gt;计算传播学将传播学研究置于数据和计算方法的坚固基础上。数据作为一种新的石油，解放了社会科学家对于理论的过度依赖。随着数字媒体的发展，人类社会积累的人类传播行为数据的规模日趋庞大，详尽地记录了社会发展和人类互动的各种细节。运用这些生动的人类传播行为数据，可以从更细的颗粒度、更大的样本规模上让我们捕捉社会的发展。毫无疑问，对于数据的挖掘依赖于人类的计算能力的提高，依赖于跨学科的研究方法和研究视角。我们人类传播行为的基因恰恰隐藏在互动性当中，但这种人类传播行为的互动性本身也使得传播过程充满了复杂性。网络科学为捕捉到纷繁复杂的人类互动提供了一个很好的视角。从数据出发，借助于计算方法和好的理论视角，就可以更好地刻画人类传播行为的模式和法则。&lt;/p&gt;
-
-&lt;h3 id=&#34;目标读者&#34;&gt;目标读者&lt;/h3&gt;
-
+&lt;li&gt;
 &lt;ul&gt;
-&lt;li&gt;致力于进行“计算社会科学” 研究的本科生与研究生&lt;/li&gt;
-&lt;li&gt;准备开设《计算传播学》或《计算社会科学》课程的青年教师&lt;/li&gt;
-&lt;li&gt;对于定量传播学研究有基本了解&lt;/li&gt;
-&lt;li&gt;对于Python、R等软件仅初步了解&lt;/li&gt;
-&lt;li&gt;致力于日后进入相关数据科学领域工作的学生&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;本书特色&#34;&gt;本书特色&lt;/h3&gt;
-
+&lt;li&gt;&lt;a href=&#34;#installation&#34;&gt;Installation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#getting-started&#34;&gt;Getting Started&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;强调跨学科合作 （传播学、网络科学、计算机科学）&lt;/li&gt;
-&lt;li&gt;引用大量发表于Science、Nature、Proceedings of National Sciences (PNAS) 等国际顶级期刊的论文&lt;/li&gt;
-&lt;li&gt;附加主要Python程序代码&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;书籍网站&#34;&gt;书籍网站&lt;/h3&gt;
-
-&lt;p&gt;Slides和Code见：&lt;a href=&#34;https://github.com/computational-class/ccrbook&#34; target=&#34;_blank&#34;&gt;https://github.com/computational-class/ccrbook&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Python代码&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;教案&lt;/li&gt;
-&lt;li&gt;案例&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;导教班及教学研讨会&#34;&gt;导教班及教学研讨会&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2019年&lt;/li&gt;
-&lt;li&gt;培训对象：利用本书作为核心教材的青年教师&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;如何购买&#34;&gt;如何购买？&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;上市时间：10月中下旬&lt;/li&gt;
-&lt;li&gt;售价：49.8元&lt;/li&gt;
-&lt;li&gt;京东、当当、亚马逊、卓越  （上市新书发布期间有一定折扣）&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于房子</title>
-      <link>https://chengjunwang.com/note/note_archive/2015-12-30-house/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/note/note_archive/2015-12-30-house/</guid>
-      <description>&lt;p&gt;人总是要在一个房子里度过，不管是冰房子、石头房子、草房子、泥房子。一个房子是一个私有的领地，你在里面，便感觉自己自己可以安心地干点什么。但是现实生活却让人不断望而却步，因为房子太贵了。这么说，也是矫情。现在谁买不起个房子啊，中国人是三代人一起买房子。钱凑一下总是会有的。但是这中有一个限度。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;我赶的时间不好，赶上了中国经济的一个潜在的危机，GDP的增速降到7了，随之制造业不行了，股市不行了，于是被限购的房子解锁了。现在的人面对一个房子，所想的不是居住，而是投资。所以，这房价就可能有泡沫了，以为连住在玄武湖边上的大妈都花20万投资房地产了。不过，贵点还是有人买。&lt;/p&gt;
-
-&lt;h1 id=&#34;车&#34;&gt;车&lt;/h1&gt;
-
-&lt;p&gt;南京市车管所
-- 电话:025-96122,
-- 传真:025-84429309。
-- 地址:南京市玄武区东方城68号。
-- 邮编:210042&lt;/p&gt;
-
-&lt;p&gt;二手车落户需要开车去吗？需要，因为要拍照，办理行驶证。行驶证和驾驶证不同：行驶证是车辆具备行驶的资质；驾驶证是自然人具有开车的资质。&lt;/p&gt;
-
-&lt;p&gt;2018年10月12日下午终于完成了二手车落户，找了一个搭讪的私人中介，加上上车牌总共550元。李树开车，带上我和尹迪，先去九乡河东路加油站加油490元，然后开往车管所。去了之后，车管所的人没好气地告诉我二手车落户要去&lt;strong&gt;大公二手车交易市场&lt;/strong&gt;（后来，黄牛告诉我是因为车管所没有空间了，大公是一个私人的公司）。非常恶劣的服务态度。&lt;/p&gt;
-
-&lt;p&gt;从车管所大厅出门就有一个姓魏的中年女子（黄牛）搭讪，非常娴熟地问话，一口价450元。然后要拓印发动机编号，因为别克车的位置不容易拓印，未果。&lt;/p&gt;
-
-&lt;p&gt;到了大公二手车交易市场，先上四楼调了档案，然后下楼排队，检察人员非常粗略的看了一下发动机，并未认真拓印。继续办理，保险的变更缺少一个签单，问了张超后找到，继续办理并随机抽取了车号苏A*67P7M。还拿到了车子的&lt;strong&gt;行驶证和登记证&lt;/strong&gt;。旁边的人说：哪有什么好号码，677挺好。想到七上八下，我就觉得顺上上也不错。&lt;/p&gt;
-
-&lt;p&gt;从大公回到车管所，搞环保（不知道是什么，反正2019年可以车子可以直接年检了）、上车牌，结果，车子上牌又要了100元。&lt;/p&gt;
-
-&lt;p&gt;从车管所回来路上，王新说可以&lt;strong&gt;转保险&lt;/strong&gt;，我微信发给张超我的身份证、行驶证和登记证的照片，直接联系保险公司办理了保险转移。&lt;/p&gt;
-
-&lt;p&gt;回来仙林校区，继续把车开进学校行政北楼地下停车库，要记得去学校保卫处交表格。&lt;/p&gt;
-
-&lt;p&gt;终于在临时牌照失效的前一天办理完成。&lt;/p&gt;
-
-&lt;p&gt;车有了，驾照还没有！&lt;/p&gt;
-
-&lt;h2 id=&#34;九曲花苑&#34;&gt;九曲花苑&lt;/h2&gt;
-
-&lt;p&gt;每天走1000米到仙林翠谷公交站（&lt;a href=&#34;http://j.map.baidu.com/x39kO&#34; target=&#34;_blank&#34;&gt;地图&lt;/a&gt;）&lt;/p&gt;
-
-&lt;h1 id=&#34;周转房申请&#34;&gt;周转房申请&lt;/h1&gt;
-
-&lt;p&gt;在oa系统里申请了&lt;code&gt;周转房&lt;/code&gt;，&lt;a href=&#34;http://fcc.nju.edu.cn/&#34; target=&#34;_blank&#34;&gt;房地产管理处&lt;/a&gt; 回复说：&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;不同意 副教授的&lt;strong&gt;正式批文&lt;/strong&gt;还未下达 请完成副教授&lt;strong&gt;入职手续&lt;/strong&gt;后申请 人资处 2017-07-14 09:17:50&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;中南山锦花城&#34;&gt;中南山锦花城&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/83fc846bd6f151dd4906ed814c0de686.png&#34; alt=&#34;中南&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;交通配套：&lt;/p&gt;
-
-&lt;p&gt;项目目前虽然距离现有的2号线南大仙林校区站2公里，但是距离2017年年初即将通车的4号线东流站仅1.2公里，并且还有未来规划中的8、9、16号线，未来的周边地铁交通会极为方便，此外项目周边公路网未来也是比较发达，规划的四横（玄武大道、仙林大道、沪宁高速、宁杭高速）三纵（绕城高速、长深高速、宁杭高速）主干道格局更是在保护生态的前提下发展的，板块自身的MRT、有轨电车、公共自行车、接驳公交也在紧锣密鼓的建设当中，可以说未来中南山锦花城的交通会比较发达方便，完全能够满足业主的出行需求。&lt;/p&gt;
-
-&lt;p&gt;学区配套：&lt;/p&gt;
-
-&lt;p&gt;在项目北侧南大、南师大等百年名校云集，人文学习氛围可以说是非常浓厚的，距离著名的南京外国语学校约2.5km，目前项目除了在和南外洽谈分校之外，还在和台湾康桥国际学校联系，争取能够引入双语国际学校，另外青龙地铁小镇片区未来将打造2所中学、4所初中、12所小学、15所幼儿园，可以说未来该地区的教育资源是完全能够为业主解决孩子学习的后顾之忧的，甚至有人预测青龙板块未来会成为仙林又一个著名的学区房板块。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/cc87f02a4f3274b9b6001e56b087520d.png&#34; alt=&#34;中南交通&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;2017年4月16日，我和老爸去看了中南山锦花城的洋房，120平米要2.76万一平，340万的总价格，因为南京市限购，只要有贷款记录就要首付5成（170万！每月还贷8500元），感觉完全没有办法承受。而如果想要首付3成的话（102万，每月还贷12000元），就要真离婚或者假离婚（让银行查不到）由暮白来买这个房子。
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&#34;宝华双创示范园&#34;&gt;宝华双创示范园&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzAxODg1NjY3OQ==&amp;amp;mid=2650543627&amp;amp;idx=1&amp;amp;sn=bcd44b9c4a7a04deafc71385b48bd2b5&#34; target=&#34;_blank&#34;&gt;南京大学·句容创新创业示范园正式签约&lt;/a&gt;。2016年7月19日下午，南京大学·句容创新创业示范园合作协议签约仪式在句容举行。南京大学校长陈骏、镇江市委书记夏锦文、句容市委书记许文等领导出席签约仪式并讲话。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/7c9fdaef6798cf2105d9c33418b17f5f.png&#34; alt=&#34;双创&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/789cf4fb058dfd2dad13a432a4113f30.png&#34; alt=&#34;address&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;地点:恒大雅苑马路对面的&lt;code&gt;濠锋星钻和春天里的后面&lt;/code&gt;。&lt;/p&gt;
-
-&lt;p&gt;2017-02-24 蓝鲸大学发布文件，成立句容双创示范园建设领导小组，2017-03-13 蓝鲸大学发布关于修订《南京大学专职科研系列岗位聘用办法》的通知，其中明确了&lt;code&gt;专职科研人员不享受公费医疗、住房分配、住房补贴、租金补贴&lt;/code&gt;。想想过去半年里宝华房价一平米涨价了7000元人民币，个中意味令人咋舌。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/c24c775bc45ceac68a121a7065adad4d.png&#34; alt=&#34;拍卖&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;sup&gt;17160&lt;/sup&gt;&amp;frasl;&lt;sub&gt;69332&lt;/sub&gt; = 0.24750475970691743万，即2475元一平米的低价，房价约为5000元一平米。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/6a02e5f0f39694b40fbda3d30eb948e7.png&#34; alt=&#34;确切地址&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/ea617581aac59962940c40c417efd865.png&#34; alt=&#34;福利待遇&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/bffe5d04ec192a8d5639801978420942.png&#34; alt=&#34;句容双创示范园领导小组&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;最近一件烦人的事情是小县城句容居然&lt;code&gt;限购&lt;/code&gt;了，六个月，外来家庭只能购买一套房子。学校对于是否给专职科研分房似乎已经达成了一致意见，专职科研不一定能转正，因而不具有购房资格。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/01cea428340c692778a2a2a4dd4a1d96.png&#34; alt=&#34;双创&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/0c8c166c74afda6760ed96f21bded495.png&#34; alt=&#34;plan&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/fe2e647397e779df4f1ef6f2c09a0423.png&#34; alt=&#34;details&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2017年10月3日，开始动工平地。&lt;/p&gt;
-
-&lt;p&gt;宝华镇科技创城与南大项目。 梁书记担任第一指挥长，杨镇长任总指挥，谭镇长任常务副指挥长，涉及到的其他领导作为副指挥长参与其中，相关部门作为成员单位。指挥部下设南大国家级“双创”基地、中科大中科院研究生基地、苏宁大数据中心等四个项目服务部，其中南大“双创”基地作为一号项目集全镇之力推进。南大项目确保10月底完成土方平整，11月举行开园仪式；
-&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzAxODg1NjY3OQ==&amp;amp;mid=2650544265&amp;amp;idx=1&amp;amp;sn=7e98bad50b7d6417a0ad850f2561c28c&#34; target=&#34;_blank&#34;&gt;信息来源&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;九曲花苑-1&#34;&gt;九曲花苑&lt;/h1&gt;
-
-&lt;p&gt;我一直住在迈皋桥这边，对仙林不熟悉。一直也没有鼓足勇气去看房子，更不想去买房子。仿佛安于现状。听了周围的老师的建议和家里人的话，开始去经天路看房子，先看了仙林湖旁的两家：金地湖城、新城香悦澜山。没有好的楼层，价格在17000左右，12月后，暮白到南京，再去看的时候就已经到了19000左右。如是这般，便买不起了。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://map.baidu.com/?newmap=1&amp;amp;shareurl=1&amp;amp;l=19&amp;amp;tn=B_EARTH_MAP&amp;amp;hb=B_SATELLITE_STREET&amp;amp;c=13254186,3757548&amp;amp;mapShareId=be042ddc36beb45380288a47&#34; target=&#34;_blank&#34;&gt;九曲花苑百度地图&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;宝华镇政府沿着玉兰路向北直走就是。&lt;/p&gt;
-
-&lt;p&gt;于是，开始在镇江句容宝华镇周围看仙林大道上的房子，泰达青筑、恒大雅苑，看了几家。后来看到天正的房子后，觉得户型不错，价格也便宜，就决定出手了。于是周末电话老爸从老家过来，周一开会，同事又介绍了仙林翠谷的九曲花苑的房子。&lt;/p&gt;
-
-&lt;p&gt;*九曲花街*是美国加州洛杉矶的有名景观。九曲花苑是六层高的洋房，介乎别墅（3）和小高层（14）之间，得房率不是高层可以比的。于是，当天就决定预付3万，第二天，12月30日，周三去学院办理了工作证明后，下午就办理了农行的贷款73万，买了2栋401东边户。基本不会遮光，三面通透。感觉很好，就是远两公里。到南大仙林校区10公里。&lt;/p&gt;
-
-&lt;p&gt;房子是四室两厅，一厨一卫，比较宽敞。东边户，早上和中午、下午的阳光都很好。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://7lrzgn.com1.z0.glb.clouddn.com/%E6%88%B7%E5%9E%8B%E5%9B%BE-%E7%B2%BE%E7%A1%AE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/b37a2b1c7f3cd4e87777f11a21394314.png&#34; alt=&#34;九曲花苑&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;美的电风扇安装&#34;&gt;美的电风扇安装&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/3de1ae4ea86baf4f16d0249326dd6768.png&#34; alt=&#34;美的电风扇安装&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;to-do-list&#34;&gt;To-do List&lt;/h2&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 需要完成房屋的设计工作&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 就近租房，以方便装修&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 8月1日交房，验房。检查线路&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 墙面、地板、灯、煤气&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 家具、厨具、洁具、热水&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 窗帘 4300元&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 空调、冰箱&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 网络&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2017年10月11日安装了三台美的空调，215元架子+管子费用。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;苏宁提供200元一台为期3年的质保。&lt;/li&gt;
-&lt;li&gt;另外两个需要&lt;strong&gt;打孔&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;海尔 冰箱 BCD-340WDPG &lt;a href=&#34;http://www.ehaier.com/product/16123.html?ebi=ref-lst-1-8&#34; target=&#34;_blank&#34;&gt;官网link
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/b288cbc72d6701b2d36a79e8c4aacf02.png&#34; alt=&#34;阳台空调冷凝水打孔方案&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;沿着地板打孔到空调间会打到楼下的空调间！解决方案是在正面直接打一个孔。如上图所示。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;美的空调 3599*4 +  9399 = 23795&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;美的Midea制冷王KFR-72LW/BP3DN8Y-YB300(B1)  &lt;a href=&#34;https://product.suning.com/0070170933/616864904.html&#34; target=&#34;_blank&#34;&gt;https://product.suning.com/0070170933/616864904.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/2b06669e9e5cacb66582c1fd7ec2bfb8.png&#34; alt=&#34;效果图&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;大3匹变频智能WiFi 圆柱立式柜机一级能效&lt;/li&gt;
-&lt;li&gt;美的空调大三匹制冷王变频柜机，适合48平以内的房间使用&lt;/li&gt;
-&lt;li&gt;高效压缩机，快速制冷制热，手机智能wife遥控&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/e006cff381c95efa580544d9f1d48ec4.png&#34; alt=&#34;media-big&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://e22a.com/h.tbpbsA?cv=Ju1tGiy7PZ&amp;amp;sm=a6e481&#34; target=&#34;_blank&#34;&gt;3599美的-淘宝链接&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/2111cd35b49dee473daa9d1b16622c91.png&#34; alt=&#34;media&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Midea/美的 KFR-35GW/BP3DN1Y-PC200(B1)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CCC证书编号: &lt;a href=&#34;https://baike.taobao.com/view.htm?wd=2016010703897753&amp;amp;ac=29&#34; target=&#34;_blank&#34;&gt;2016010703897753&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;上市时间: 2016-8&lt;/li&gt;
-&lt;li&gt;产地: 中国大陆&lt;/li&gt;
-&lt;li&gt;内机包装尺寸: 960x390x290mm&lt;/li&gt;
-&lt;li&gt;内机堆码层数极限: 12层&lt;/li&gt;
-&lt;li&gt;内机尺寸: 880x295x195mm&lt;/li&gt;
-&lt;li&gt;内机毛重: 13.5kg&lt;/li&gt;
-&lt;li&gt;制冷功率: 860W&lt;/li&gt;
-&lt;li&gt;制冷量: 3500W&lt;/li&gt;
-&lt;li&gt;制热功率: 1160W&lt;/li&gt;
-&lt;li&gt;制热量: 4400W&lt;/li&gt;
-&lt;li&gt;外机包装尺寸: 910x420x630mm&lt;/li&gt;
-&lt;li&gt;外机堆码层数极限: 6层&lt;/li&gt;
-&lt;li&gt;外机尺寸: 807x328x555mm&lt;/li&gt;
-&lt;li&gt;外机毛重: 36kg&lt;/li&gt;
-&lt;li&gt;室内机噪音: 18dB&lt;/li&gt;
-&lt;li&gt;室外机噪音: 38dB&lt;/li&gt;
-&lt;li&gt;智能类型: 其他智能&lt;/li&gt;
-&lt;li&gt;电辅加热功率: 1050W&lt;/li&gt;
-&lt;li&gt;空调品牌: Midea/美的&lt;/li&gt;
-&lt;li&gt;美的空调型号: KFR-35GW/BP3DN1Y-PC200(B1)&lt;/li&gt;
-&lt;li&gt;空调面板颜色: 陶瓷白&lt;/li&gt;
-&lt;li&gt;空调类型: 壁挂式&lt;/li&gt;
-&lt;li&gt;冷暖类型: 冷暖电辅&lt;/li&gt;
-&lt;li&gt;空调功率: 大1.5匹&lt;/li&gt;
-&lt;li&gt;适用面积: 11m^2 (含)-20m^2 (含)&lt;/li&gt;
-&lt;li&gt;工作方式: 变频&lt;/li&gt;
-&lt;li&gt;能效等级: 一级&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#core-parameters&#34;&gt;Core parameters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#introduce-yourself&#34;&gt;Introduce yourself&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#customize-the-homepage&#34;&gt;Customize the homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#add-your-content&#34;&gt;Add your content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#customization-updating&#34;&gt;Customization &amp;amp; updating&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;松下冰箱 3990 &lt;a href=&#34;https://detail.tmall.com/item.htm?id=544520664392&amp;amp;ut_sk=1.WMv5IXoIsBcDAE4kmxO3KxGT_21380790_1507017319898.&amp;amp;skuId=3281837465746&#34; target=&#34;_blank&#34;&gt;淘宝链接&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/dbe2c92dbc39f4be9793985117136249.png&#34; alt=&#34;panasonic&#34; /&gt;&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;容积&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;冷冻室容积&lt;/td&gt;
-&lt;td&gt;90L&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;冷藏室容积&lt;/td&gt;
-&lt;td&gt;177L&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;最大容积&lt;/td&gt;
-&lt;td&gt;313L&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;尺寸规格&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;净重&lt;/td&gt;
-&lt;td&gt;74kg&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;包装尺寸&lt;/td&gt;
-&lt;td&gt;647x699x2010mm&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;宽×深(厚)×高&lt;/td&gt;
-&lt;td&gt;606x639x1900mm&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;毛重&lt;/td&gt;
-&lt;td&gt;81kg&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;基本参数&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;上市时间&lt;/td&gt;
-&lt;td&gt;2015-10&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;冰箱冰柜品牌&lt;/td&gt;
-&lt;td&gt;Panasonic/松下&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;松下冰箱型号&lt;/td&gt;
-&lt;td&gt;NR-C31PX3-NL&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;智能类型&lt;/td&gt;
-&lt;td&gt;不支持智能&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;冰箱冷柜机型&lt;/td&gt;
-&lt;td&gt;冷藏冷冻冰箱&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;制冷方式&lt;/td&gt;
-&lt;td&gt;风冷&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;箱门结构&lt;/td&gt;
-&lt;td&gt;三门式&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;面板类型&lt;/td&gt;
-&lt;td&gt;VCM覆膜板&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;能效等级&lt;/td&gt;
-&lt;td&gt;一级&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;颜色分类&lt;/td&gt;
-&lt;td&gt;典雅金&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;制冷控制系统&lt;/td&gt;
-&lt;td&gt;电脑温控&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;技术参数&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;噪声&lt;/td&gt;
-&lt;td&gt;37dB&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;耗电量&lt;/td&gt;
-&lt;td&gt;0.7Kwh/24h&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;收房-装修进度&#34;&gt;收房、装修进度&lt;/h2&gt;
-
-&lt;p&gt;7月31日，拿到了房子的钥匙。装修还有漫漫长路。感觉非常的有压力。米粒妈妈带着米粒去西安和宝鸡住了一个月，从2016年十一开始装修。找了安徽人老王家的装修公司，包轻工，从水电开始，木工进入，之后油漆。期间做了地暖、瓷砖、橱柜、门套、灯具、窗户。&lt;/p&gt;
-
-&lt;p&gt;这之间首先为了房屋的设计折腾了很久，把入户花园旁边的步入式衣帽间改成了一个独立的小房间。爸爸发挥了自己垒墙的专业技能，将米粒的房间和这个门口小房间改造得很漂亮。&lt;/p&gt;
-
-&lt;p&gt;比较坎坷的一次斗智斗勇的事情是和地面找平的人的纠纷，对方谎称用了很多水泥。爸爸数了水泥袋子数量证实对方说假话。我最终站在爸爸一方同对方电话斗争。&lt;/p&gt;
-
-&lt;p&gt;折腾到2016年12月29日开始做厨房和卫生间的吊顶，预约了30日做抽油烟机&lt;/p&gt;
-
-&lt;h3 id=&#34;硬装收尾&#34;&gt;硬装收尾&lt;/h3&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; &lt;del&gt;橱柜&lt;/del&gt;&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; &lt;del&gt;卧室木地板&lt;/del&gt;&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 洗手间推拉门&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 坐便器&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 洗手台3个&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 木匠打厨房吊柜&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 鞋柜和衣柜门板&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 厨房推拉门&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 纱窗&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;家具&#34;&gt;家具&lt;/h3&gt;
-
-&lt;p&gt;芝华仕&lt;code&gt;高力国际家居港&lt;/code&gt;，房东是在迈皋桥那边买的家具，暮白在那里买的公司家具。地址见&lt;a href=&#34;http://j.map.baidu.com/SHg5j&#34; target=&#34;_blank&#34;&gt;百度地图&lt;/a&gt;。&lt;/p&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 两个大床 1.8*2.0&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 沙发&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 电视桌&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 餐桌 1.5 + 6*椅子&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; 沙发桌&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/f73a04ecc4e903b6f69e6df86d674222.png&#34; alt=&#34;家具&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;2017年2月19日在恒大旁边的&lt;strong&gt;欢乐购家具城&lt;/strong&gt;里的一家小店里预定了以上家具(总价13100元)。&lt;/p&gt;
-
-&lt;p&gt;看了房东家里的家具，还是挺不错的的，除了不喜欢她选的真皮沙发。上淘宝看了&lt;a href=&#34;https://yuanshimuyu.tmall.com/&#34; target=&#34;_blank&#34;&gt;源氏木语的家具&lt;/a&gt;比较简单。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/cbba350c94d95310cc1f79b1accc0d6f.png&#34; alt=&#34;鞋柜、厨房吊柜、阳台洗衣柜&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/bab7fb53fe14982274a98bf3f73832f1.png&#34; alt=&#34;餐厅、客厅、书柜&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/dac0c69c3ad1aad90ccc1845b3c02a7f.png&#34; alt=&#34;卧室&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/7c211dc87d27c28b85d1e81f80c8ec0f.png&#34; alt=&#34;卫生间&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/133033dc64f37bbcd00c01f65722708b.png&#34; alt=&#34;yimen&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;衣柜的移门比较难选，波浪纹的移门，上面是对开的小门。&lt;/p&gt;
-
-&lt;h2 id=&#34;装修设计&#34;&gt;装修设计&lt;/h2&gt;
-
-&lt;p&gt;需求：&lt;/p&gt;
-
+&lt;li&gt;&lt;a href=&#34;#advanced-customization&#34;&gt;Advanced customization&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;办公区域&lt;/li&gt;
-&lt;li&gt;两个小孩的卧室，两个主卧室&lt;/li&gt;
-&lt;li&gt;一个客厅&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;主要矛盾是大客厅和办公区域的矛盾&lt;/p&gt;
-
-&lt;p&gt;现在的思路是保留东北两个小房间的封闭性，分别装窗户和门。在小孩三岁后 住在小房间。&lt;/p&gt;
-
-&lt;p&gt;如何兼容客厅和办公？&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/cd5b896c20ff76219e143ad4828fbb3e.png&#34; alt=&#34;housework&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;希望有一个这样的书架
-&lt;img src=&#34;https://chengjunwang.com/img/qiniu/af4c8f2cfe2de71792f567064ef2e5f8.png&#34; alt=&#34;bookshelf&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;设计的架构是这样的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/21b376a2c6a5119a6f10431b6bcb7a9e.png&#34; alt=&#34;design&#34; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;2016租房&#34;&gt;2016租房&lt;/h1&gt;
-
-&lt;p&gt;8月14日与晓青去句容看了仙林悦城与恒大雅苑的房子。很多都是新的房子拿出来出租，多数没有好的家具。看了恒大雅苑四栋23楼的一个140平米的房子，三室两厅两卫。但是除了简单的硬装修之外，完全没有家具家电。最后决定每月两千租这个房子，我自己配家电，主要是两个空调+一个冰箱。带过去晓青的冰箱和电视。&lt;/p&gt;
-
-&lt;p&gt;房东配两床+两衣柜+餐厅饭桌+六把椅子+客厅电视桌+茶几桌+四把小椅子+卧室窗帘。签约费500+租金每月两千，租期一年，预付押金1000。结果这个二逼房东糊弄人，重新找一个吧。&lt;/p&gt;
-
-&lt;h2 id=&#34;关于宝华镇&#34;&gt;关于宝华镇&lt;/h2&gt;
-
-&lt;p&gt;宝华镇位于镇江市西郊、句容市西北部，西距南京23公里，紧邻南京仙林大学城，东至镇江市区35公里。南至南京禄口机场30公里，北至长江龙潭港6公里，312国道、沪宁铁路穿境而过。宝华得名于境内佛教“律宗第一名山”宝华山，宝华山国家森林公园属国家AAAA级风景区，内有享誉东南亚佛教名寺——宝华山隆昌寺。交通便捷，区位优越，资源丰富。&lt;/p&gt;
-
-&lt;p&gt;百度百科 &lt;a href=&#34;http://baike.baidu.com/subview/939271/9832164.htm&#34; target=&#34;_blank&#34;&gt;http://baike.baidu.com/subview/939271/9832164.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;教育&#34;&gt;教育&lt;/h1&gt;
-
-&lt;h2 id=&#34;南外幼儿园仙林分校&#34;&gt;南外幼儿园仙林分校&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;四季金辉东南&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;宝华小学&#34;&gt;宝华小学&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;宝华花园旁&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;交通&#34;&gt;交通&lt;/h1&gt;
-
-&lt;h2 id=&#34;102路宝华专线&#34;&gt;102路宝华专线&lt;/h2&gt;
-
-&lt;p&gt;宝华到句容客运公司
-首末班 ：06:20-17:35
-全程票价：7 元
-1 . 宝华
-2 . 龙潭
-3 . 东阳
-4 . 孟塘
-5 . 下鲍亭
-6 . 朝阳
-7 . 乌龟桥
-8 . 汤山
-9 . 新塘
-10 . 黄梅
-11 . 客运公司&lt;/p&gt;
-
-&lt;h2 id=&#34;仙林湖地铁站&#34;&gt;仙林湖地铁站&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/5000574f5b2e4f44b050943eacfd157e.png&#34; alt=&#34;仙林湖地铁站&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;四号线已经通车，但是仙林湖地铁站却比想象中要远。从仙林湖站到鼓楼需要&lt;code&gt;40分钟&lt;/code&gt;。可以坐2号线在金马路转4号线到鼓楼。&lt;/p&gt;
-
-&lt;p&gt;玉兰路-仙林东路-仙林大道-经天路地铁站。s5地铁线会有一站经过宝华，但是距离仙林大道较远，需要经过宝华大道。预计2020年前完成。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://7lrzgn.com1.z0.glb.clouddn.com/%E5%9C%B0%E9%93%81.jpg&#34; alt=&#34;南京地铁规划线路&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;南京地铁15号线：经天路——保税物流中心未列入十三五规划。不要被忽悠了！&lt;/p&gt;
-
-&lt;p&gt;详见：&lt;a href=&#34;http://www.gov.cn/xinwen/2016-11/10/content_5131005.htm&#34; target=&#34;_blank&#34;&gt;发展改革委关于南京城市轨道交通第二期建设规划调整方案（2016～2021年）的批复 &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;附件：南京市城市轨道交通第二期建设规划调整方案（2016～2021年）&lt;a href=&#34;http://www.gov.cn/xinwen/2016-11/10/5131005/files/ee288bf6757345eb8267e9956690dbae.pdf&#34; target=&#34;_blank&#34;&gt;示意图&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/f4ee2a814c7f46fab123aa996ef915bd.png&#34; alt=&#34;njmetroplan&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;2号线东延到宝华&#34;&gt;2号线东延到宝华&lt;/h2&gt;
-
-&lt;p&gt;市政府办公厅关于贯彻落实宁镇扬同城化发展规划的通知 &lt;a href=&#34;http://www.nanjing.gov.cn/xxgk/szf/201708/t20170816_4922445.html&#34; target=&#34;_blank&#34;&gt;宁政办发〔2017〕149号&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;25．加快仙林—宝华科学城建设。整合仙林大学城和宝华片区，着力推进国家科学城建设，打造全国科技创新高地、区域智慧谷和东部宜居城。仙林大学城重点推进商务中心区建设，大力发展高等教育、科技研发以及文化创意产业，培育和壮大国家级科研机构、研发中心、工程中心和实验室等，强化基础研究和应用能力。加快推进南京地铁2号线和城市公交向宝华延伸。加快推进道路规划建设衔接，贯通桂山路、江嵊路等主次干道，疏通仙林大道。（牵头单位：栖霞区政府、仙林大学城管委会）&lt;/p&gt;
-
-&lt;p&gt;26．加快龙潭—下蜀滨江港城建设。以临港经济和新城建设为重点，建设长江区域性航运物流中心核心区、临港先进制造业集聚区和现代化新城。推进交通基础设施衔接成网和市政公用设施共建共享。加快轨道15号线与沪宁城际铁路宝华站衔接，建设下龙公路，推进龙潭港四期和六期集装箱码头以及联检锚地建设，规划建设龙潭疏港公路和铁路。（牵头单位：栖霞区政府、南京经济技术开发区管委会）&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;公交车&#34;&gt;公交车&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;159： 太少，到四号线仙林湖地铁站&lt;/li&gt;
-&lt;li&gt;D5：到二号线经天路地铁站&lt;/li&gt;
-&lt;li&gt;191: 经天路、仙林湖地铁站、宝华山&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;191路公交车&#34;&gt;191路公交车&lt;/h3&gt;
-
-&lt;p&gt;2017年8月23日起，南京经天路地铁站至宝华山公交直通车正式开通。为了方便游客游览宝华山，宝华镇政府和宝华山管委会积极与南京江南公交客运有限公司沟通协调，新增191路公交，同步撤销G9路。&lt;/p&gt;
-
-&lt;p&gt;服务时间：
-- 经天路地铁站西：8：40-20：10
-- 宝华山：9：40-21：10
-- 约 20-30分钟一班&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/23ac990f2630fd9fb856db602c0b406b.png&#34; alt=&#34;191&#34; /&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>不要温和地走进静谧的良夜</title>
-      <link>https://chengjunwang.com/talk/nju-ceremony/</link>
-      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/talk/nju-ceremony/</guid>
-      <description>&lt;p&gt;Slides下载 &lt;a href=&#34;https://computational-communication.com/collaboratory/files/ceremony2018talk.pptx&#34; target=&#34;_blank&#34;&gt;https://computational-communication.com/collaboratory/files/ceremony2018talk.pptx&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>语录</title>
-      <link>https://chengjunwang.com/note/note_archive/2014-08-29-her-words/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/note/note_archive/2014-08-29-her-words/</guid>
-      <description>
-
-&lt;h2 id=&#34;防风眼镜&#34;&gt;防风眼镜&lt;/h2&gt;
-
-&lt;p&gt;前两天，米粒妈妈说给米粒买了一个防风的眼镜，今天早上要出门上学时，&lt;/p&gt;
-
-&lt;p&gt;米粒突然提出要去取快递。&lt;/p&gt;
-
-&lt;p&gt;米粒对爸爸说：妈妈给我买的眼镜到了，我们现在去取好吗？&lt;/p&gt;
-
-&lt;p&gt;爸爸回答：爸爸不知道取货码。&lt;/p&gt;
-
-&lt;p&gt;米粒：你看看手机。&lt;/p&gt;
-
-&lt;p&gt;爸爸：妈妈没有发给爸爸，你去问问妈妈到了吗？&lt;/p&gt;
-
-&lt;p&gt;米粒跑去问妈妈：眼镜到了没。&lt;/p&gt;
-
-&lt;p&gt;妈妈回答：宝贝，你先出门。&lt;/p&gt;
-
-&lt;p&gt;爸爸问米粒：妈妈说什么？&lt;/p&gt;
-
-&lt;p&gt;米粒说：妈妈说眼镜今天早上起床的时候就到了，现在可以取了。&lt;/p&gt;
-
-&lt;p&gt;爸爸暗笑，没有想到娃按照个人意愿扭曲现实的能力这么强大。&lt;/p&gt;
-
-&lt;p&gt;于是，爸爸大声问妈妈：米粒的眼镜到了吗？&lt;/p&gt;
-
-&lt;p&gt;妈妈不回答或者答非所问。&lt;/p&gt;
-
-&lt;p&gt;最后，爸爸受不了，大声问：到底到了没有。&lt;/p&gt;
-
-&lt;p&gt;妈妈说：没有。&lt;/p&gt;
-
-&lt;p&gt;于是爸爸对米粒说：没到，咱们先上学去吧。可能今天下午就到了。&lt;/p&gt;
-
-&lt;p&gt;说完，爸爸感觉在给自己挖坑赶紧补充：是可能，也许因为其他很多原因到不了。&lt;/p&gt;
-
-&lt;p&gt;米粒默默跟着爸爸出门，走进电梯还说：我不喜欢妈妈，妈妈不遵守交通规则。&lt;/p&gt;
-
-&lt;h2 id=&#34;五味打架&#34;&gt;五味打架&lt;/h2&gt;
-
-&lt;p&gt;晓青常有惊人之语，罗列一二。&lt;/p&gt;
-
-&lt;p&gt;一次，她很生气，说：太气人了，五味打架！&lt;/p&gt;
-
-&lt;p&gt;坐火车路过潼关，她说：这个地方很有名，“西出潼关无故人”！&lt;/p&gt;
-
-&lt;p&gt;最近，暮白对我很失望，经常说：我要揍死你。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>社会阶层与数字媒体中的注意力流动</title>
-      <link>https://chengjunwang.com/talk/tencent-nju-talk/</link>
-      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/talk/tencent-nju-talk/</guid>
-      <description>&lt;p&gt;社会阶层与数字媒体中的注意力流动&lt;/p&gt;
-
-&lt;p&gt;王成军&lt;/p&gt;
-
-&lt;p&gt;数字媒体改变了人类的生存方式，加速了社会阶层的再生产。当我们上网、看新闻、浏览网页的时候，我们的注意力在不同的信息当中流动。数字信息构成了我们每日的精神食粮，充当着一种社会知识。从社会群体的角度而言，我们的注意力在形形色色社会知识中的流动冲刷出来一个社会知识的空间，而每一个人每天孜孜不倦地在这个空间中穿梭。但是，不管人类在虚拟世界和物理空间的行为实际上都受到社会阶层的重要影响。数字媒体记录下来人类的媒介使用行为，为我们研究社会阶层对人类在知识空间中的移动行为影响及其内在机制提供了新的数据。借助于计算社会科学，尤其是网络科学，我们可以构造出社会知识的空间，并详细刻画海量的个体在这个知识空间的移动。我们假设社会阶层会型塑人们的日常生活方式和阅读行习惯，造成知沟在群体中的出现，并进一步稳固已有的社会阶层。初步的研究发现证实了社会阶层的影响，例如穷人会使用更多不常用的个性的app，而富人更多使用一些常用的手机app；穷人阅读娱乐型内容多，富人阅读知识性内容多。&lt;/p&gt;
-
-&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=31100744&amp;cid=54319738&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt; &lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On teaching</title>
-      <link>https://chengjunwang.com/note/note_archive/2015-10-30-on-teaching/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/note/note_archive/2015-10-30-on-teaching/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;新进职工教学培训&#34;&gt;新进职工教学培训&lt;/h1&gt;
-
-&lt;p&gt;jsfz@nju.edu.cn&lt;/p&gt;
-
-&lt;p&gt;以学生能力培养为中心的教学：如何成为卓越的大学老师？&lt;/p&gt;
-
-&lt;p&gt;感谢南京大学教师教学发展中心的组织，非常荣幸参加了2017年南京大学新进教师教学能力提升专题培训（2018年1月16日-17日，一天半）。我重点听了陈道蓄、李满春、张洋、王自强、吕筠、张莉、郑伟娟、周奕伦几位老师的分享，对于以学生为中心的大学教学及其不同的形式和方法有了更加全面的认识。对于此次培训内容，我简要对我产生共鸣和影响的内容进行归纳和总结，具体如下：&lt;/p&gt;
-
-&lt;p&gt;以学生为中心的课程设计的目的是用能力培养替代知识传递。陈道蓄和郑伟娟两位老师都提到了大学教育以传授知识为核心的局限性。科学的发展不断改写我们对于自然和人类社会的认识，大学教育所强调的知识体系往往会很快被新的知识所替代，当学生大学毕业之后，很多在校园里学到的知识都可能过时了，或者在每个人职业生涯更晚一些的时候，这些知识最终过时了，甚至被证明是错误的或有失偏颇。社会生活和工作是一个实实在在的试金石，总会有层出不穷的新问题涌现出来。仅仅靠着在大学里学到的有限的知识，也无法应对异常丰富的实际问题。如何让学生能够更好的适应社会和工作中的这种挑战就成了一个非常紧迫的问题。这也迫使大学老师不断反思大学教育的本质和目的。一个被广泛接受的答案是：大学教育的核心在于培养学生的能力。&lt;/p&gt;
-
-&lt;p&gt;陈老师主张大家思考什么才是能力。将能力培养作为核心的大学教育就一定要说清楚能力是什么。从计算机科学的角度，他主张从计算思维的角度来定义和衡量能力。面对社会现象，能够抽象出其中的问题，并将该问题分解为几个可以执行的步骤，通过编写程序等方式实现自动化的实现即为计算思维的基本形式。在这种定义计算思维的过程中，涉及到了可计算性的问题。以通过编程来解决问题为例，所编写的算法本身存在一个可计算函数，如果这个可计算函数的复杂度较低，这种算法的可计算性就越强。能够运行的程序背后都对应了一个可计算函数，运行时间的长短就对应了函数本身的复杂度的高低。计算思维关注的核心是任务的分解和自动化的实现。具备计算思维的能力，就能够更加高效地解决问题，更清晰地理解社会现象。&lt;/p&gt;
-
-&lt;p&gt;陈道蓄关于课程组织的介绍有很多翻转课堂的理念。比如：
-1. 没有课内和课外之分；学习应当是随时随地的，打破空间和时间限制的，只有如此每个学生才能找到自己的节奏。但是需要注意的是：为什么学生还需要来课堂呢？我想这是因为课堂将提供超乎知识点的对于能力的训练。不过做到这一点缺失很难，因为很多学生非常繁忙，忙着上课、社团活动，压力很大。翻转课堂所推崇的增加作业和阅读量给学生带来更多的挑战。如何平衡本课程与其它老师开设的课程就形成了一个不小的问题。
-2. 教学材料提前发给学生，并且告诉学生不是预习，就是学习；需要有一本或几本参考书，并形成自己的讲义。
-3. 编程是一种技能，学生可以自学，需要课堂讲授，以作业的形式推动学生主动学习编程；我想这一点也许适用于计算机专业的学生，他们以计算机为终身的志业，接受很多系统的计算机教学，容易触类旁通。但对于文科编程而言，并非如此。很多学生完全没有接触过编程，缺乏对于编程背后的数据结构和算法的理解。我自己的很多课程都是以编程为核心的，切身体会到社会科学和人文学科的学生对于编程的热情和无奈。不过，陈老师的观点有启发意义，即可以让学生通过作业深入掌握编程的问题，减少学生在编程方面对于老师的依赖。
-4. 知识点只是能力的载体，不是能力本身。因此拼命讲课的老师可能不是以学生为中心，而是以教学任务为核心。这一点非常重要，很多侧重于讲的老师语速很快，缺少与学生的沟通和互动，没有办法与学生产生真正的交流，将学生丢弃在了知识的汪洋当中。其实是一种不负责任。当然，学生必然会因为跟不上而不感兴趣，甚至产生挫败感。
-5. 内容只是载体，就可以做减法，减到不能再减。
-6. PPT是用来组织知识点的，因而不是给学生看的！有学生反馈说陈老师，PPT上的知识点不连贯。陈回答：这本来就不是给你们看的。对此，我的理解是：学生应该看的是内容详尽的教学材料，而PPT是高度简化的。PPT只是在学生看了教学材料、讲义之后才能理解的逻辑线索。&lt;/p&gt;
-
-&lt;p&gt;李满春老师从GIS学科的发展介绍了教学的设计思路。本硕博都应当处于前沿，区别只在于程度。为了达到这一目标就需要持续更新教材。在这个过程中非常重要的一个方面在于抓住新生学科的发展机遇。以科研促进教学的思路还需要注意紧密结合国家和社会需求，做顶天立地的研究，促进国家和社会的发展。&lt;/p&gt;
-
-&lt;p&gt;张洋老师作为青年教师代表，介绍了回国之后开设《大气环流》基础课程的经历。教学首要需要解决的问题是如何吸引学生，如何激发学生的学习兴趣。张老师的思路是依靠课程内容的专业性，尽可能发展为专业核心课程。一般需要参考多本教材和讲义，集众家之所长建立学科体系，注重逻辑性和理论性，避免碎片化的知识堆砌。作业以鼓励为主，做好课程主页。&lt;/p&gt;
-
-&lt;p&gt;同时，教学需要尽量贴近自己的研究方向，教自己擅长的东西，尽可能去选择课程，而不是反过来被课程选择。要在教学中触摸学科前沿，尤其是高年级专业课和研究生课程。这样可以有助于吸引学生，进入自己的研究组，充实科研团队。&lt;/p&gt;
-
-&lt;p&gt;张老师强调，PPT具有直观呈现的不可替代的优势，但往往不适用于讲公式推导。做好PPT的方法是模仿板书的形式，一点一点、逐行呈现知识点，避免一下子展现一整页ppt，减少学生的认知压力，强调循序渐进的教学思路。&lt;/p&gt;
-
-&lt;p&gt;南京大学依据四个融通原则，建立了三三制本科教学方案。让每个学生可以建立自己的课表，但跨院系选课一学期不超过四门，公选不超过三门。开学前两周为退补选时间。缺课三分之一（6周）就是零分。补考成绩只能按60分记。但南大有一个邪恶的“弃课”传统，即对于已经获得学分的课程，可以申请注销。&lt;/p&gt;
-
-&lt;p&gt;在激发学生互动性方面，王自强老师介绍了课立方网站，可以让课程动起来，将课堂小测、签到、抢答等基本过程通过微信公众号来实现。&lt;/p&gt;
-
-&lt;p&gt;就简化PPT而言，吕筠老师强调不要把PPT当word或者黑板，以简洁为第一原则。规避字太多、色彩不清、换行错误、重点不清楚等问题。另外，现在ppt的比例多为16:9，未来会以4：3的宽屏为主流。纯白色背景容易视觉疲劳，建议灰色更好，字体方面黑体28号字体比较合适。PPT只是关键词，是逻辑线索，不是讲义。&lt;/p&gt;
-
-&lt;p&gt;张莉老师介绍了MOOC制作和教学的经验。内容是王道。讲给谁、讲什么、怎么讲？怎么呈现？非常重要。开设慕课需要做好已经开设慕课的调查，明确是针对专业还是非专业学生开设？讲传统内容还是热点内容？就其自身开设《使用python玩转数据》课程为例，张老师强调了以数据为基础，构建一系列案例的教学方式。以现实的数据和问题为出发点，实现个性化、多层次、案例式教学。就形式而言，张莉老师指出她不适应一直出镜的讲课方式，七周的课程，她每周录制一个自己出镜介绍的片头。使用surface电脑自带的笔在ppt上边写边讲。对于已经开设好的慕课，可以服务于每个学期开设的课程，构成课下学习视频，上课深入交流的混合式教学模式。此外，可以把自己在做的研究项目融入慕课的案例当中。&lt;/p&gt;
-
-&lt;p&gt;郑伟娟老师以从教二十多年的经历指出相对于使用板书、薄膜投影的教学方式，使用ppt教学老师的教学压力很大，很多都是老师讲满一节课。但是现在知识更新快，自主学习和批判思维更重要。提升学生学习兴趣和参与度是教学成功的第一步，一定要与时俱进，选择适合现在的大学生的教学方式。郑老师就翻转课堂教学指出只有那些适合学生自学，也能找到学习视频和资料的课程才适合翻转，通过布置学习任务、出思考题的方式，引导学生自学和思考。在翻转课堂上，学生是学习的主体，但当学生参与度有限出现冷场时，老师要引导，但不是自问自答。翻转课程往往通过自学和分组来进行，会出现学习压力大、学生只对自己负责的部分认真学习的问题。因而不是所有的课程都要全部翻转，部分翻转是比较合适的。针对学生只认真学习自己小组的内容的情况，平时的考试和期末考试相互结合是必要的。&lt;/p&gt;
-
-&lt;p&gt;周奕伦老师则介绍了在windows环境下下载和编辑视频的方法，此外还介绍了录制视频的一些简单方法。&lt;/p&gt;
-
-&lt;p&gt;整体而言，此次工作坊就很多教学问题进行了简单的介绍，尤其是针对我一直存在困惑的翻转课堂和慕课问题、讲义和图书编写问题、编程教学问题、ppt制作问题、教学和科研协同的问题，都有深入的交流，激发了我对于教学的兴趣，期待以后可以参加更多教师教学发展中心的活动。&lt;/p&gt;
-
-&lt;h1 id=&#34;上课时间&#34;&gt;上课时间&lt;/h1&gt;
-
-&lt;p&gt;8:00-8:50
-9:00-9:50&lt;/p&gt;
-
-&lt;p&gt;10:10-11:00
-11:10-12:00&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;14:00-14:50
-15:00-15:50&lt;/p&gt;
-
-&lt;p&gt;16:10-17:00
-17:10-18:00&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;18:30-19:20
-19:30-20:20&lt;/p&gt;
-
-&lt;h1 id=&#34;学生使用github上传作业问题&#34;&gt;学生使用github上传作业问题&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/liruonanfdu/cjc2016/tree/gh-pages/homework/liruonan&#34; target=&#34;_blank&#34;&gt;https://github.com/liruonanfdu/cjc2016/tree/gh-pages/homework/liruonan&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;录制公开课视频&#34;&gt;录制公开课视频&lt;/h1&gt;
-
-&lt;p&gt;Quicktime可以比较方便地录制屏幕，因而是录制公开课的好方法。但录制屏幕的时候，我们往往还希望能够看到讲课的人，所以还需要录制视频。&lt;/p&gt;
-
-&lt;p&gt;解决方法很简单：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;首先，打开录制视频，但是并不点击开始录制。&lt;/li&gt;
-&lt;li&gt;然后，打开录制屏幕，点击开始。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;不过，我后来觉得使用这种方法其实比较没意义，读者看到教师的形象意义有多大呢？有或者没有其实影响不大。&lt;/p&gt;
-
-&lt;h1 id=&#34;上课总结与自我评估材料&#34;&gt;上课总结与自我评估材料&lt;/h1&gt;
-
-&lt;p&gt;每门课都需要教师总结与自我评估，大概500字左右。本学期我为本科生开设两门课《数据新闻》、《计算传播与广告》&lt;/p&gt;
-
-&lt;h2 id=&#34;该课程的开课历史&#34;&gt;该课程的开课历史&lt;/h2&gt;
-
-&lt;p&gt;-《数据新闻》为南京大学第一门数据新闻相关课程
--《计算传播与广告》为南京大学第一门计算广告相关课程&lt;/p&gt;
-
-&lt;h2 id=&#34;备课或其它准备工作&#34;&gt;备课或其它准备工作&lt;/h2&gt;
-
-&lt;p&gt;《数据新闻》是南京大学新闻传播学院新闻采写课程包系列中的核心课程之一，旨在为所有新闻专业和有志于从事新闻工作的同学提供数据新闻的知识和基本训练。数据新闻（data journalism）是指基于数据的抓取、挖掘、统计、分析和可视化呈现的新型新闻报道方式。本课程以《The Data Journalism Handbook》（2012）和《数据可视化的基本原理与方法》（陈为等，2013）作为授课教材。通过本课程的同学应该具备基本的数据新闻素养，具体包括收集数据、清洗数据、分析数据、可视化数据的能力，能准确地运用数据语言报道新闻事实。就数据新闻的生产过程而言，例如有人将数据新闻的生产过程分为四个阶段：数据（Data）、过滤（Filter）、可视化（ Visualize）、故事（ Story）。我们将之分为五个阶段：•    1. 数据新闻选题&amp;mdash;-关于数据新闻的理论（1）•  2. 新闻数据抓取&amp;mdash;-Python（2）• 3. 新闻数据分析&amp;mdash;-Python,R（2）,Excel• 4. 传播数据新闻（如数据可视化）&amp;mdash;-Tableau（1）,HTML5（1）, Javascript（1）, echarts（1）, D3.js（1）, Processing（1）, Adobe Illustrator（1）• 5. 分析数据新闻效果&amp;mdash;-网站分析工具&lt;/p&gt;
-
-&lt;p&gt;《计算传播与广告》是南京大学新闻传播学院为广告方向的本科生开设的任选课程之一，旨在为广告专业和有志于从事互联网广告工作的学生提供计算传播和广告的基础知识。计算传播学是计算社会科学的重要分支。它主要关注人类传播行为的可计算性基础，以传播网络分析、传播文本挖掘、数据科学等为主要分析工具，大规模地收集并分析人类传播行为数据，挖掘人类传播行为背后的模式和法则，分析模式背后的生成机制与基本原理，可以被广泛地应用于数据新闻和计算广告等场景。本课程注重编程训练、数学建模和可计算思维的培养。要求选课学生对于计算社会科学（computational Social Science）感兴趣；保持开放的头脑；不排斥基本的统计学和简单的计算机编程。计算广告（computational advertising）是计算传播学的重要研究方向和应用领域，由雅虎研究院资深研究员Andrei Broder首次提出，他认为，计算广告学是一门由信息科学、统计学、计算机科学以及微观经济学等学科交叉融合的新兴分支学科。之后，Andrei Broder和另一位Yahoo!的资深研究员一起在斯坦福开设了这门课程，被称为互联网广告从业人员的“必修课”。通过本课程的同学应该具备基本的计算传播与广告的基础知识。•   传播网络分析 Network Analysis•    博弈论基础 Gaming theory•    数据科学与编程工具 Data Science &amp;amp; Programming Tools• 互联网广告的理论框架• 了解计算广告在互联网广告中的位置和作用；•了解并掌握各种计算广告类型，包括广告投放样式、广告投放系统、广告计费方式分析等；•  掌握搜索广告检索的基本流程及常用技术，如信息检索、广告排序、广告投放定位等内容。•   学习使用软件程序对相关数据进行分析；&lt;/p&gt;
-
-&lt;h2 id=&#34;遇到的困惑或难题-存在的不足与局限&#34;&gt;遇到的困惑或难题、存在的不足与局限&lt;/h2&gt;
-
-&lt;p&gt;《数据新闻》但是产业发展已经开始倒逼学术研究，今天的媒体市场和广告市场已经发生天翻地覆的变化。随着信息渠道的拓展，海量的信息扑来，但受众的注意力却非常有限。传统媒体面临广告下滑，读者背离，朝不保夕的窘境，纷纷抓住各种救命稻草，媒体融合和数据新闻就成了重点考虑对象。这反过来将压力传递到新闻传播教育中来。因为，数据新闻涉及到前端、设计等复杂的内容，所以并非计算机科学拓展的重点（与计算广告相比），所以本专业的学生还比较积极。但是存在学生统计基础薄弱、可视化训练不足、畏惧编程、上课玩手机等问题。&lt;/p&gt;
-
-&lt;p&gt;《计算传播与广告》但是，对于计算广告的崛起，传统的广告系的学生还毫无感受。也许，基于社会分工，这本来就应当是计算机系的学生考虑的问题，但无疑精细化的计算广告也要考虑广告的内容和形式，因为只有这样才能匹配媒体平台、受众、广告主三方的利益。所以，广告系的同学其实迫切需要普及计算广告技巧。新闻传播专业的学生整体而言需要与计算机专业更好的融合。&lt;/p&gt;
-
-&lt;h2 id=&#34;尝试的创新与改革&#34;&gt;尝试的创新与改革&lt;/h2&gt;
-
-&lt;p&gt;《数据新闻》因为我所带的课都是新课，所以在备课方面花了很多时间。因为我讲的课涉及到很多编程练习的环节，所以平时的作业是必须的。我采用github作为管理学生作业的平台，感觉非常好。可以非常好地实现对于学生分组、小组人物安排、学生问题答疑、作业发布、作业审核的全部过程。此外，还可以较好地以网页的形式展现学生的学习成果。这一点是我比较满意的。&lt;/p&gt;
-
-&lt;p&gt;《计算传播与广告》因为我所带的课都是新课，所以在备课方面花了很多时间。因为我讲的课涉及到很多编程练习的环节，所以平时的作业是必须的。我采用github作为管理学生作业的平台，感觉非常好。可以非常好地实现对于学生分组、小组人物安排、学生问题答疑、作业发布、作业审核的全部过程。此外，还可以较好地以网页的形式展现学生的学习成果。这一点是我比较满意的。&lt;/p&gt;
-
-&lt;h2 id=&#34;对学生学习态度及课堂反馈的评价&#34;&gt;对学生学习态度及课堂反馈的评价&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;对学生态度友好&lt;/li&gt;
-&lt;li&gt;认真审阅学生作业&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;未来的计划与设想等&#34;&gt;未来的计划与设想等。&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;两门课程均需要课堂上机练习，而目前学院仙林校区的机房仅仅有20个机位，迫切需要扩充机房。&lt;/li&gt;
-&lt;li&gt;减少课堂教学量，增加互动内容。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;取得成绩与经验&#34;&gt;取得成绩与经验&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;完成教学任务&lt;/li&gt;
-&lt;li&gt;增加师生互动&lt;/li&gt;
-&lt;li&gt;完成通过github交作业、批改作业&lt;/li&gt;
-&lt;li&gt;完成微信公号《微议题排行榜》的运营&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;关于计算传播教学的感悟&#34;&gt;关于计算传播教学的感悟&lt;/h3&gt;
-
-&lt;p&gt;2012年的时候，我还在香港城市大学读博士，有一门必修课是教如何给学生上课。课程要求必须要写自己的“教育哲学”。我写了我自己的计划：一、如何给ssci期刊投稿；二、网络分析的理论和应用；三、媒介市场分析。时光荏苒，三年过去，我回到大陆教书。第一门课变成遥不可及的梦想，没有本科生和研究生对这个感兴趣；第二门课和第三门课倒是有一部分开始变成现实。我在2015年春季给研究生开了《计算传播学导论》的工作坊，秋季开了两门课，一门是《数据新闻》，另一门是《计算传播与广告》。我给自己的定位很明确：发展和传播“计算传播学”。计算传播学是计算社会科学的一个重要分支。它主要关注传播网络分析、媒介文本挖掘、数据新闻、计算广告、数学模型、编程工具以及开放数据。理论起源于数据，阶及模式、法则、机制，而达根本原理。将人类传播行为（开放数据）可计算化的转化过程依赖于我们的研究方法（数学模型、编程工具），专注于我们的研究领域（传播网络分析、媒介文本挖掘），而应用于数据新闻和计算广告领域。&lt;/p&gt;
-
-&lt;p&gt;在过去的五年里，计算社会科学成为了一个不可抵挡的浪潮。这个浪潮有很多表现形式，比如“大数据”、“媒体融合”、“人工智能”纷纷成为周围人火热讨论的话题。虽然，很多人唱衰这些东西，但我一直认为说一个东西不行太容易了，每个人在批评别人的时候总能超水平发挥，因为我们倾向于盯着比人的短处。但是批评太容易了，难点其实一直在于怎么解决问题。没有意义之物，注定被历史的尘埃淹没，关键是要做出好的东西出来。在社会科学家们磨拳搽掌围攻大数据的时候，一群物理学家和计算机科学家开始投入到计算社会科学的研究中来。&lt;/p&gt;
-
-&lt;p&gt;社会科学内部对于变革并不敏感，计算机科学和自然科学加入社会科学的研究并不鲜见。实际上，这种场景太让人熟悉，80年代的时候，计算机科学发展计算语言学的时候就出现过。结果是两帮人说不到一块去，乔姆斯基作为语言生成学派反对计算语言学的基本观点，双方各自开自己的会议，办自己的期刊。但是，随着互联网的发展，传统语言学面对计算语言学的飞速发展已经失去了往日的那种反抗，二者终于在一方胜出的情况下开始产生有益的融合。问题是现在其他各个社会科学分支如何看待计算社会科学呢？如果对抗20年，基本上学科发展的一代人的时光就耗进去了。仅从学术争论而言，孤注一掷不是明智之举，似乎短期内依然没有明确答案。&lt;/p&gt;
-
-&lt;p&gt;但是产业发展已经开始倒逼学术研究，今天的媒体市场和广告市场已经发生天翻地覆的变化。随着信息渠道的拓展，海量的信息扑来，但受众的注意力却非常有限。传统媒体面临广告下滑，读者背离，朝不保夕的窘境，纷纷抓住各种救命稻草，媒体融合和数据新闻就成了重点考虑对象。这反过来将压力传递到新闻传播教育中来。因为，数据新闻涉及到前端、设计等复杂的内容，所以并非计算机科学拓展的重点（与计算广告相比），所以本专业的学生还比较积极。但是，对于计算广告的崛起，传统的广告系的学生还毫无感受。也许，基于社会分工，这本来就应当是计算机系的学生考虑的问题，但无疑精细化的计算广告也要考虑广告的内容和形式，因为只有这样才能匹配媒体平台、受众、广告主三方的利益。所以，广告系的同学其实迫切需要普及计算广告技巧。新闻传播专业的学生整体而言需要与计算机专业更好的融合。&lt;/p&gt;
-
-&lt;p&gt;教学是一个互动的过程。对于学生而言，是增长知识；对于老师而言，是教学相长。作为一个良性的互动，需要有一个正反馈的过程。但往往现实没有那么美好，比如春季给研究生开的《计算传播学导论》工作坊，后来发现根本不算教学量。给广告系本科生开的《计算传播与广告》没有几个广告系的同学选课，相反，开设的《数据新闻》则选课众多。另外，我在鼓楼面向研究生开的课程和读书会、一起公开课活动，来的主要是专业硕士，学术硕士并不感兴趣。硕士和博士的反馈让我更多我反思是为什么文科的研究生越做研究越固步自封，为什么本科生对于找工作更有兴趣？从我的角度而言，乐见其对于应用的关注，但也期望能够抓住那些对研究感兴趣的学生。&lt;/p&gt;
-
-&lt;p&gt;因为我所带的课都是新课，所以在备课方面花了很多时间。因为我讲的课涉及到很多编程练习的环节，所以平时的作业是必须的。我采用github作为管理学生作业的平台，感觉非常好。可以非常好地实现对于学生分组、小组人物安排、学生问题答疑、作业发布、作业审核的全部过程。此外，还可以较好地以网页的形式展现学生的学习成果。这一点是我比较满意的。&lt;/p&gt;
-
-&lt;p&gt;附《我的教育哲学》：&lt;/p&gt;
-
-&lt;h3 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h3&gt;
-
-&lt;p&gt;Teaching is one process of self-presentation, through which you represent the long-living knowledge of human kind. It really matters what you are thinking about your teaching philosophy. For me, according to my understandings of teaching, I would like to highlight the equality of teaching and learning, the nature of human beings, and being open-minded.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Everyone is equal&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Respect Your Audience. A good lesson I learnt from this class come with a question: what should you do when your students did a good job? If not, what will you do? Reflect about the answer. Do you want to reward or punish them? Remember your answer in heart.&lt;/p&gt;
-
-&lt;p&gt;I would like to introduce Skinner’s box invented by Frederic Skinner, which contains levers that an animal can press, stimulus lights, electric grid, and food pellet. Following the logic of behaviorism, when the subject correctly performs the behavior, the chamber mechanism delivers food or another reward. Or else, the box delivers a punishment for incorrect or missing responses.&lt;/p&gt;
-
-&lt;p&gt;Thus, you may realize that you are treating your students as passive experimental subjects. The beginning point is never to treat your students as experimental rats, and even animals deserve your respects. Students are human beings who have their own feelings, emotions, and values. The first step of teaching should be to learn to respect your audiences, even though they behave passively, or make no progress.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Understanding human nature&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Effective teaching is to impose a set of values &amp;amp; beliefs on the student. The most important part should be teaching the students how to learn. The best way of learning should be acting according to the nature of human beings. Everyone had been a curious kid who wanted to explore every part of the world. Just like the cat is curious about the fish (sometime, for eating, while sometimes just for fun), human beings, in the nature, are curious about the part of knowledge they are interested in. The second step of effective teaching should be inspiring your students to fulfill their interests in the learning process.&lt;/p&gt;
-
-&lt;p&gt;I was always not surprised about the story of Thomas Suarez, the 12 years old kid who made two iphone Apps by learning python, java, and c. Little Thomas has been fascinated by computers and technology before kindergarten. What the teacher should think is how could we contribute to the audiences’ real interests, rather than beat around the bush complaining why the students have no passion in the boring class.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Being Open-minded&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The world is always changed by new comers. The teacher will finally find his or her understandings about the cutting-edge scientific study are not perfect. The best way is not to constrain the students from challenging the tradition. Being open-minded, sit down, and enjoy the new outline drawn by the young people.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>理解个人所得税</title>
-      <link>https://chengjunwang.com/note/note_archive/2015-12-31-income/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/note/note_archive/2015-12-31-income/</guid>
-      <description>
-
-&lt;h2 id=&#34;新职工逐月住房补贴发放比例由目前24-调整为26&#34;&gt;新职工逐月住房补贴发放比例由目前24%调整为26%&lt;/h2&gt;
-
-&lt;p&gt;南京大学房地产管理处 南房产【2018】1号 《关于调整老职工租金补贴、新职工逐月住房补贴发放比例的通知》&lt;/p&gt;
-
-&lt;p&gt;各院系、各单位: 根据苏事管【2017】63 号《关于统一新老职工住房货币化分配政策的通知》文件精神，参照江苏省机关事业单位的一般做法，经学校党政联席 会议研究决定，对 1998 年 11 月 30 日以前参加工作的老职工(含离退休) (以下简称老职工)提租补贴比例及 1998 年 12 月 1 日以后参加工作的新职工(以下简称新职工)逐月住房补贴发放比例调整如下:&lt;/p&gt;
-
-&lt;p&gt;一、比例调整
-老职工提租补贴发放比例由目前20%调整为26% ;新职工逐月住房补贴发放比例由目前24%调整为26%。&lt;/p&gt;
-
-&lt;p&gt;二、补发办法
-本次老职工租金补贴及新职工逐月住房补贴发放比例调整从2017年7 月起补发调整差额。预计补发差额将于本月到账。&lt;/p&gt;
-
-&lt;p&gt;特此通知。
-房地产管理处 2018年1月23日&lt;/p&gt;
-
-&lt;h2 id=&#34;新聘用教职工住房租金补贴-货币补贴&#34;&gt;新聘用教职工住房租金补贴、货币补贴&lt;/h2&gt;
-
-&lt;p&gt;《南京大学新聘用教职工住房货币补贴、租金补贴及贷款贴息暂行办法》（2004）文件，&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;租金补贴税前总额&lt;strong&gt;1.44万元&lt;/strong&gt;
-
-&lt;ul&gt;
-&lt;li&gt;每个月发放1200元，发放12个月。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#navigation-menu&#34;&gt;Navigation menu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#website-icon&#34;&gt;Website icon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#analytics&#34;&gt;Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#third-party-and-local-scripts-js&#34;&gt;Third party and local scripts (JS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#language-and-translation&#34;&gt;Language and translation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#permalinks&#34;&gt;Permalinks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#advanced-style-customization-css&#34;&gt;Advanced style customization (CSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;货币补贴税前总额&lt;strong&gt;17万元&lt;/strong&gt;
-
-&lt;ul&gt;
-&lt;li&gt;首次发放11万&lt;/li&gt;
-&lt;li&gt;剩余6万每月发放500元，发放10年。&lt;/li&gt;
-&lt;li&gt;工作不满十年，退换11万中相应比例。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#updating&#34;&gt;Updating&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/nav&gt;
 
-&lt;h2 id=&#34;2018年1月收入&#34;&gt;2018年1月收入&lt;/h2&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;岗位工资&lt;/th&gt;
-&lt;th&gt;2210&lt;/th&gt;
-&lt;th&gt;薪级工资&lt;/th&gt;
-&lt;th&gt;890&lt;/th&gt;
-&lt;th&gt;省贴&lt;/th&gt;
-&lt;th&gt;165&lt;/th&gt;
-&lt;th&gt;岗贴&lt;/th&gt;
-&lt;th&gt;395&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;交补&lt;/td&gt;
-&lt;td&gt;500&lt;/td&gt;
-&lt;td&gt;同城&lt;/td&gt;
-&lt;td&gt;410&lt;/td&gt;
-&lt;td&gt;岗责考勤&lt;/td&gt;
-&lt;td&gt;690&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;岗位津贴&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;4400&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;安家费&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2500&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;绩效扣减&lt;/td&gt;
-&lt;td&gt;-650&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;应发&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;11510&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;会费&lt;/td&gt;
-&lt;td&gt;15.5&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;养老预扣&lt;/td&gt;
-&lt;td&gt;588&lt;/td&gt;
-&lt;td&gt;大病互助&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;个税&lt;/td&gt;
-&lt;td&gt;929.4&lt;/td&gt;
-&lt;td&gt;实发&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;9957.1&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;公积金好像没有了呀！&lt;/p&gt;
-
-&lt;h2 id=&#34;更新&#34;&gt;更新&lt;/h2&gt;
-
-&lt;p&gt;一直以来，蓝鲸大学都是南京高校里收入最低的，当然是指中位平均数&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。2016年4月开始，根据建设&lt;strong&gt;双一流大学&lt;/strong&gt;的需要，对岗位工资进行调整。岗位工资增加3333元。另外，发新职工住房补贴2400；应发总额变成了16033元。比起中山大学一月两万的专职科研收入还要少4000元。但同时，国家的养老政策调整了，加入了大幅度的养老预扣1600，减去其它杂七杂八，到手11718元。到了7月份，交通补贴增加了200元。&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;岗位工资&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;交补&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;新职工房贴&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;应发&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;会费&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;公积&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;养老预扣&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;大病互助&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;个税&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;实发&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;13333&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;300&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;2400&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;16033&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;66.67&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1200&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1600&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;20&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;1428.25&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;11718.08&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&#34;薪资纳税计算&#34;&gt;薪资纳税计算&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;学校财务处 &lt;a href=&#34;http://ndcw.nju.edu.cn/&#34; target=&#34;_blank&#34;&gt;http://ndcw.nju.edu.cn/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;江苏省南京地方税务局 &lt;a href=&#34;http://nj.jsds.gov.cn/art/2011/6/28/art_16724_418203.html&#34; target=&#34;_blank&#34;&gt;http://nj.jsds.gov.cn/art/2011/6/28/art_16724_418203.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;交补300、会费50、大病互助20、公积金1200，不算入纳税范围。交补是交通补贴；会费是工会会费是在工资中提取的工会经费。大学没有医疗保险，只有大病互助。住房公积金是1200元，年初还会交一次失业险50。其中，*只有*住房公积金不交税。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;10000+300-1200 = 9100
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;3500以上为纳税标准，我的账单上写565元所得税，&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;应纳个人所得税税额=应纳税所得额×适用税率-速算扣除数；
-
-((10000- 1200 + 300)- 3500)*0.2 - 555 = 565
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;扣除标准3500元/月（2011年9月1日起正式执行）（工资、薪金所得适用）；个税免征额3500元（工资薪金所得适用）。关于税率和速算扣除数参见：&lt;a href=&#34;http://www.chinaacc.com/kuaijishiwu/gssw/ni1501272983.shtml&#34; target=&#34;_blank&#34;&gt;http://www.chinaacc.com/kuaijishiwu/gssw/ni1501272983.shtml&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;假设其它工薪收入为50万，那么可以使用以下公式计算。基本工资应交税部分9100元，该部分交税565。其它工薪收入x加上9100即为该月总纳税金额，应纳税所得额乘以税率，再减去速算扣除数就是本月应缴纳税收，减去基本工资缴纳税收565，就是本月其它工薪收入部分缴纳的税额。具体如下：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;def tax(x, rate, extra):
-    return (x+9100-3500)*rate-extra-565
-
-tax(10000, 0.25, 1005)*50 = 116500
-tax(20000, 0.25, 1005)*25 = 120750
-tax(40000, 0.30, 2755)*12 + tax(20000, 0.25, 1005) = 129150
-tax(50000, 0.35, 5505)*10 = 133900
-tax(500000, 0.45, 13505) = 213450
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;从2016年1月到2018年1月，&lt;strong&gt;共计&lt;/strong&gt;25个月。&lt;/p&gt;
-
-&lt;h2 id=&#34;劳务报酬纳税计算&#34;&gt;劳务报酬纳税计算&lt;/h2&gt;
-
-&lt;p&gt;您输入的税前劳务报酬总额为：500000， 应纳所得税额为：153000， 税后劳务报酬总额为：347000&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;青椒最可怜，但是院士，各种国家人才收入并不低。
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>南京住房公积金和补贴</title>
-      <link>https://chengjunwang.com/note/2017-12-12-housing-accumulation-fund/</link>
-      <pubDate>Mon, 11 Dec 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/note/2017-12-12-housing-accumulation-fund/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/#installing-hugo&#34; target=&#34;_blank&#34;&gt;Install Hugo&lt;/a&gt; and create a new website by typing the following commands in your &lt;em&gt;Terminal&lt;/em&gt; or &lt;em&gt;Command Prompt&lt;/em&gt; app:&lt;/p&gt;
 
-&lt;h2 id=&#34;养老保险基数核定&#34;&gt;养老保险基数核定&lt;/h2&gt;
-
-&lt;p&gt;上交时如签字则视为确定（所以大家还是可以照此ppt算一下，虽然真的有点烧脑）有问题及时私信联系我。其他各类签字领卡等请各位老师在9月30日前至我办公室440完成。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;当年度缴费基数按照上一年度12月份工资水平（含基本工资改革部分）确定；&lt;/li&gt;
-&lt;li&gt;基数=（岗位工资+薪级工资）+（综合补贴+省定岗贴+同城待遇 +岗责考勤奖）+年度岗位津贴/12+绩效扣减；&lt;/li&gt;
-&lt;li&gt;根据国办发[2015]3号文，自2014年10月起国家工资标准调整并做绩效扣减。我校于2015年12月工资发放后完成调标补发，因此在计算基数时2014年和2015年12月工资中岗位工资和薪级工资需由0607标准转换为1410标准并增加绩效扣减项（相应标准附后）；&lt;/li&gt;
-&lt;li&gt;2015年薪级调整在12月工资发放后完成，因此薪级需先增加一级后再对应1410标准；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;链接: &lt;a href=&#34;https://pan.baidu.com/s/10UXihs7gYjdTjUZvOEZdzA&#34; target=&#34;_blank&#34;&gt;https://pan.baidu.com/s/10UXihs7gYjdTjUZvOEZdzA&lt;/a&gt; 提取码: ndbs&lt;/p&gt;
-
-&lt;h3 id=&#34;2014年&#34;&gt;2014年&lt;/h3&gt;
-
-&lt;p&gt;第二批次
-应发C 50000   个税C 3725    实发C 46275&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;备注C   14年09月起薪，补5个月&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;2015年&#34;&gt;2015年&lt;/h3&gt;
-
-&lt;p&gt;2015-2 第一批次
-岗位工资    10000   交补  300 应发  10300   会费  50
-失业险 50  大病互助    20  个税  795 实发  9385&lt;/p&gt;
-
-&lt;p&gt;2015-3 第一批次
-岗位工资    10000   交补  300 应发  10300   会费  50
-公积  1200    失业险 50  大病互助    20  临时扣款    7200
-实发  1780&lt;/p&gt;
-
-&lt;p&gt;2015-4 第一批次
-岗位工资    10000   交补  300 应发  10300   会费  50
-公积  1200    大病互助    20  个税  565 实发  8465&lt;/p&gt;
-
-&lt;p&gt;2015-5 第一批次
-岗位工资    10000   交补  300 应发  10300   会费  50
-公积  1200    大病互助    20  个税  565 实发  8465&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;从2015年5月到2017年3月，每个月都固定是8465.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;2016年&#34;&gt;2016年&lt;/h3&gt;
-
-&lt;p&gt;2016-12 第一批次
-岗位工资    10000   交补  300 应发  10300   会费  50
-公积  1200    大病互助    20  个税  565 实发  8465&lt;/p&gt;
-
-&lt;h3 id=&#34;2017年&#34;&gt;2017年&lt;/h3&gt;
-
-&lt;p&gt;2017-4 第一批次
-岗位工资    10000   交补  300 应发  10300   会费  50
-公积  1200    大病互助    20  个税  565 实发  8465
-第三批次
-应发D 2400    个税D 600 实发D 1800    备注D 新职工房贴
-第四批次
-应发E 600 个税E 150 实发E 450 备注E 房贴比例调整补差&lt;/p&gt;
-
-&lt;p&gt;2017-5 第一批次
-岗位工资    13333   交补  300 新职工房帖   2400    应发  16033
-会费  66.67   公积  1200    养老预扣    1600    大病互助    20
-个税  1428.25 实发  11718.08&lt;/p&gt;
-
-&lt;p&gt;2017-6 第一批次
-岗位工资    13333   交补  300 新职工房帖   2400    应发  16033
-会费  66.67   公积  1200    养老预扣    1600    大病互助    20
-个税  1428.25 实发  11718.08&lt;br /&gt;
-第四批次
-应发E 600 个税E 150 实发E 450 备注E 交补调标补发&lt;/p&gt;
-
-&lt;p&gt;2017-7 第一批次
-岗位工资    13333   交补  500 新职工房帖   2400    应发  16233
-会费  66.67   公积  1200    养老预扣    1600    大病互助    20
-个税  1478.25 实发  11868.08&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;从2017年7月到11月都是11868.08&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;2017-11 第一批次
-岗位工资    13333   交补  500 新职工房帖   2400    应发  16233
-会费  66.67   公积  1200    养老预扣    1600    大病互助    20
-个税  1478.25 实发  11868.08&lt;/p&gt;
-
-&lt;p&gt;第二批次
-应发C 10714   个税C 887.8   实发C 9826.2&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;备注C   17年12月起薪（博后类）&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;2018年&#34;&gt;2018年&lt;/h3&gt;
-
-&lt;p&gt;2018-1 第一批次
-岗位工资    2210    薪级工资    890 省贴  165 岗贴  395
-交补  500 同城  410 岗责考勤    690 岗位津贴    4400
-安家费 2500    绩效扣减    -650    应发  11510   会费  15.5
-养老预扣    588 大病互助    20  个税  929.4   实发  &lt;strong&gt;9957.1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;第三批次
-应发D 1146    个税D 229.2   实发D 916.8   备注D 当月50%绩效奖励&lt;/p&gt;
-
-&lt;p&gt;2018-2 第一批次
-岗位工资    2210    薪级工资    890 省贴  165 岗贴  395
-交补  500 同城  410 岗责考勤    690 岗位津贴    4400
-安家费 2500    新职工房帖   8925    货币补贴    500 租房补贴    1200
-绩效扣减    -650    应发  22135   会费  15.5    公积  1373
-养老预扣    588 失业险 18.3    大病互助    20  个税  2467.85
-临时扣款    2764.3  实发  14888.05&lt;br /&gt;
-第三批次
-应发D 1145.8  个税D 286.45  实发D 859.35  备注D 当月50%绩效&lt;/p&gt;
-
-&lt;p&gt;2018-3 第一批次
-岗位工资    2210    薪级工资    890 省贴  165 交补  500
-岗责考勤    690 岗位津贴    4400    安家费 2500    货币补贴    500
-租房补贴    1200    绩效扣减    -650    应发  16185   会费  15.5
-公积  1373    养老预扣    588 失业险 18.3    大病互助    20
-个税  891.14  实发  13279.06&lt;br /&gt;
-第二批次
-应发C 1145.8  个税C 229.16  实发C 916.64  备注C 当月50%绩效&lt;/p&gt;
-
-&lt;p&gt;2018-7 第一批次
-岗位工资    2210    薪级工资    955 省贴  165 交补  500
-岗责考勤    690 岗位津贴    4400    安家费 2500    货币补贴    500
-租房补贴    1200    绩效扣减    -650    应发  16250   会费  15.83
-公积  1373    养老预扣    588 失业险 18.3    大病互助    20
-个税  904.14  实发  &lt;strong&gt;13330.73&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;2018-8 第一批次
-岗位工资    2210    薪级工资    955 省贴  165 交补  500
-岗责考勤    690 岗位津贴    4400    安家费 2500    货币补贴    500
-租房补贴    1200    绩效扣减    -650    应发  16250   会费  15.83
-公积  1373    养老预扣    588 失业险 18.3    大病互助    20
-个税  904.14  实发  13330.73&lt;br /&gt;
-第二批次
-应发C 1145.8  个税C 229.16  实发C 916.64  备注C 当月50%绩效奖励&lt;/p&gt;
-
-&lt;h2 id=&#34;住房补贴提取&#34;&gt;住房补贴提取&lt;/h2&gt;
-
-&lt;p&gt;自从去年开始，住房补贴不在和住房公积金一起交，而是直接发给个人。累计的住房补贴也需要办理提取。住房补贴查看办法：我的南京APP-公积金，差不多64408元。&lt;/p&gt;
-
-&lt;p&gt;签领表中无卡人员备注“照片需采集”，原因多为户口不在江苏或本人未更新身份证导致公安系统中无相关人员照片信息，省社保制卡中心暂无法制卡，请提醒该类人员按以下要求补全照片信息后提交至我处：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;参照第二代居民身份证照片标准执行，使用的照片为申领人近期彩色正面白底免冠人像的数码化图像；&lt;/li&gt;
-&lt;li&gt;规格为32mm*26mm，即数字照片为358像素（宽）441像素（高）规格，文件大小10kb-60kb；&lt;/li&gt;
-&lt;li&gt;文件名：“身份证号码_姓名.jpg”（身份证号如有X，为大写的X）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;南房产-2017-3号-关于简化住房公积金提取手续的通知&#34;&gt;南房产【2017】3号 关于简化住房公积金提取手续的通知&lt;/h2&gt;
-
-&lt;p&gt;各院系、单位：&lt;/p&gt;
-
-&lt;p&gt;根据南京住房公积金管理中心《关于进一步简化住房公积金提取手续的通知》文件精神，为简化我校教职工办理住房公积金提取手续，进一步提高服务水平，自2018年1月1日起，对我校教职工办理住房公积金提取手续调整变更如下：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;一、 取消提取申请单。今后我校教职工办理住房公积金提取手续，无需在学校办理任何手续，直接携带相关证明材料至南京市建设银行办理即可。需提供证明材料请参见《南京住房公积金提取审核管理规程》。&lt;/li&gt;
-&lt;li&gt;二、 取消我校原规定每月11日至15日办理公积金提取业务的限制。今后我校教职工在南京市建设银行的服务时间可以随时办理住房公积金提取业务。&lt;/li&gt;
-&lt;li&gt;三、 可以办理同行提取通兑业务。今后我校教职工可以到建设银行在南京市主城区（玄武区、秦淮区、建邺区、鼓楼区、栖霞区、雨花台区）内任一提取办理网点申请提取住房公积金。具体办理网点附后。&lt;/li&gt;
-&lt;li&gt;四、可以办理购房提取网上业务。今后我校教职工及其配偶在南京市主城区（玄武区、秦淮区、建邺区、鼓楼区、栖霞区、雨花台区）购买自住住房的，可以在南京市住房公积金管理中心网上办事大厅（www.njgjj.com）申请办理提取业务。操作指南详见南京住房公积金管理中心网站。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;请各院系、各单位将本次住房公积金提取手续调整内容务必传达至本单位教职工。如有疑问，请与房地产管理处住房管理科联系，联系电话89686054。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;附件1：《关于进一步简化住房公积金提取手续的通知》&lt;/li&gt;
-&lt;li&gt;附件2：《南京住房公积金提取审核管理规程》&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;附件3：建设银行承办公积金归集业务网点信息一览表（主城区内）&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;                    房地产管理处
-                    2017年12月26日
+&lt;pre&gt;&lt;code&gt;hugo new site my_website
+cd my_website
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;h3 id=&#34;关于进一步简化住房公积金提取手续的通知&#34;&gt;关于进一步简化住房公积金提取手续的通知&lt;/h3&gt;
+&lt;li&gt;&lt;p&gt;Install Academic with &lt;a href=&#34;https://help.github.com/articles/set-up-git/&#34; target=&#34;_blank&#34;&gt;git&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;2017-12-25
-各住房公积金缴存单位、职工：
- 为贯彻落实“简政放权、放管结合、优化服务”改革要
-求，进一步方便缴存职工提取住房公积金，提高服务水平，
-现就简化住房公积金提取手续有关事项通知如下：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;一、取消提取申请单。自 2018 年 1 月 1 日起，职工办理住房公积金提取业务无需单位开具申请单。&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;二、开展购房提取网上业务。自 2018 年 1 月 1 日起，职工及其配偶在南京市主城区（玄武区、秦淮区、建邺区、鼓楼区、栖霞区、雨花台区）购买自住住房的，可以在中心网上办事大厅（www.njgjj.com）申请办理提取业务。操作指南详见中心网站。&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;三、开展同行提取通兑业务。自 2018 年 1 月 1 日起，在南京市主城区（玄武区、秦淮区、建邺区、鼓楼区、栖霞区、雨花台区）缴存住房公积金的职工可以到其缴存银行主城区内任一提取办理网点申请提取住房公积金。&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;南京住房公积金管理中心&lt;/p&gt;
-
-&lt;h2 id=&#34;关于进一步加强购买自住住房提取审核的通知&#34;&gt;关于进一步加强购买自住住房提取审核的通知&lt;/h2&gt;
-
-&lt;p&gt;2017-04-13&lt;/p&gt;
-
-&lt;p&gt;各住房公积金归集业务承办银行，中心各处室、分中心：
-　　为贯彻落实国务院《住房公积金管理条例》关于“住房公积金应当用于职工购买、建造、翻建、大修自住住房”的规定，更好地发挥住房公积金保障性和互助性，引导缴存职工住房消费回归“房子是用来住的、不是用来炒的”定位，现就进一步加强购买自住住房提取（含提取偿还购房贷款本息,下同）审核有关事项通知如下：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;一、支持职工刚性住房消费提取。职工（配偶）在本市行政区域内购买首套或第二套改善型自住住房，申请提取住房公积金时无需补充提供自住证明材料。&lt;/li&gt;
-&lt;li&gt;二、限制投机投资性购房提取。职工（配偶）在本市行政区域内无产权住房，在本市行政辖区以外购房，通过审核其（配偶）身份证、婚姻、购房材料以及购房所在地的户口簿或社保缴纳证明等材料，核实其自住情况。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;　　**南京住房公积金管理中心 **&lt;/p&gt;
-
-&lt;p&gt;　　2017年4月12日&lt;/p&gt;
-
-&lt;h1 id=&#34;南京住房公积金管理中心&#34;&gt;南京住房公积金管理中心&lt;/h1&gt;
-
-&lt;p&gt;南京市玄武区太平北路51号 &lt;a href=&#34;http://j.map.baidu.com/B-qLN&#34; target=&#34;_blank&#34;&gt;http://j.map.baidu.com/B-qLN&lt;/a&gt;  3号线浮桥、2号线大行宫&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://gjj.nanjing.gov.cn/wsbsdt/&#34; target=&#34;_blank&#34;&gt;http://gjj.nanjing.gov.cn/wsbsdt/&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;公积金账号：801017435215&lt;/li&gt;
-&lt;li&gt;住房补贴账号：804001045006&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;温馨提示：反显的银行账号是公积金联名卡号，如需修改或没有反显可录入本人公积金缴存行的储蓄卡号，此账号作为网上提取资金收款账号，请认真核对填写。&lt;/p&gt;
-
-&lt;h2 id=&#34;领卡&#34;&gt;领卡&lt;/h2&gt;
-
-&lt;p&gt;使用建设银行的银行卡，领卡：身份证&lt;/p&gt;
-
-&lt;p&gt;南大仙林校区学生宿舍24幢一楼、第十一学生食堂对面。网点设有电子银行体验区、自助填单机、自助发卡机等先进设备，让南大师生体验在建行办理业务的便利，实现足不出户就能办理各类非现金业务。&lt;/p&gt;
-
-&lt;p&gt;20100466817 南京大学 网点号0001&lt;/p&gt;
-
-&lt;p&gt;山西路68号 &lt;a href=&#34;http://j.map.baidu.com/PLrLN&#34; target=&#34;_blank&#34;&gt;http://j.map.baidu.com/PLrLN&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;通过当地025-12329热线输入身份证号查询。&lt;/p&gt;
-
-&lt;h3 id=&#34;住房公积金-住房补贴提取申请单&#34;&gt;住房公积金、住房补贴提取申请单&lt;/h3&gt;
-
-&lt;p&gt;银行也可以领取&lt;strong&gt;住房公积金、住房补贴提取申请单&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;先查询自己有多少钱。&lt;/li&gt;
-&lt;li&gt;去银行领这个单子，可以多领几张&lt;/li&gt;
-&lt;li&gt;填完了单位盖章&lt;/li&gt;
-&lt;li&gt;同时拿着购房合同贷款合同&lt;/li&gt;
-&lt;li&gt;去取钱。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;南京住房公积金管理中心文件&#34;&gt;南京住房公积金管理中心文件&lt;/h1&gt;
-
-&lt;p&gt;宁金管〔2017〕51号&lt;/p&gt;
-
-&lt;p&gt;关于开展南京住房公积金网上提取业务的通知&lt;/p&gt;
-
-&lt;p&gt;各住房公积金缴存单位，缴存职工：
-为认真落实“放管服”改革和住房租赁试点工作要求，进一步方便缴存职工提取住房公积金，提升服务效能和水平，中心于2017年9月1日起开展离退休和支付房租网上提取住房公积金业务。&lt;/p&gt;
-
-&lt;p&gt;附件：南京住房公积金网上提取业务操作指南&lt;/p&gt;
-
-&lt;p&gt;南京住房公积金管理中心
-2017年8月23日&lt;/p&gt;
-
-&lt;p&gt;附件：&lt;/p&gt;
-
-&lt;h3 id=&#34;南京住房公积金网上提取业务操作指南&#34;&gt;南京住房公积金网上提取业务操作指南&lt;/h3&gt;
-
-&lt;p&gt;为方便和规范职工办理住房公积金网上提取业务，保证网上提取业务顺利开展，制定本操作指南。&lt;/p&gt;
-
-&lt;p&gt;一、网上登录&lt;/p&gt;
-
-&lt;p&gt;职工需登录南京住房公积金管理中心网上办事大厅（www.njgjj.com）办理网上提取业务，登录方式有人脸识别和密码两种。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;（一）人脸识别登录
-职工点击“人脸识别用户”，输入姓名和证件号码，点击“立即登录”，系统自动生成二维码，职工用支付宝扫描二维码并进行人脸识别操作，人脸识别通过即登录成功。&lt;/li&gt;
-&lt;li&gt;（二）个人密码登录
-职工点击“个人密码用户”，输入证件号码、密码和验证码即可登录。初始密码为个人住房公积金账号后四位数字加两个“0”（建议登录后修改初始密码）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;二、身份认证&lt;/p&gt;
-
-&lt;p&gt;为保证网上提取业务安全，职工办理网上提取业务需进行身份认证。身份认证方式有柜面和网络两种。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;（一）柜面身份认证
-职工携带本人身份证和住房公积金联名卡（住房公积金账户所在银行的银行卡）到缴存银行网点进行身份认证。职工需签订《南京住房公积金网上办理业务协议书》，签订后缴存银行网点工作人员在中心业务系统（提取子系统-提取登记-网上提取身份认证）中输入职工联名（银行）卡卡号和手机号，获取并输入验证码后提交即完成身份认证。&lt;/li&gt;
-&lt;li&gt;（二）网上身份认证
-职工登录网上办事大厅后，点击“身份认证-网厅业务个人身份认证”菜单，系统自动生成二维码，职工用支付宝扫描二维码并进行人脸识别操作，人脸识别通过后录入职工联名（银行）卡卡号和手机号，获取并输入验证码后提交即完成身份认证。如人脸识别无法通过请到柜面进行身份认证。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;三、网上申请&lt;/p&gt;
-
-&lt;p&gt;职工身份认证后即可办理网上提取申请，目前网上可以办理离退休和支付房租提取申请。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;（一）离退休提取申请
-达到国家法定退休年龄且单位已为其办理住房公积金账户封存手续的职工可以在网上申请。职工登录网上办事大厅后点击“提取业务-网上退休销户提取登记”，获取并输入手机验证码提交后即申请成功。&lt;/li&gt;
-&lt;li&gt;（二）支付房租提取申请
-职工及其配偶在南京市无产权住房的可以在网上申请。职工登录网上办事大厅后点击“提取业务-网上租房提取登记”，输入婚姻状况信息、提取金额、手机验证码提交后即申请成功。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;四、资金支付&lt;/p&gt;
-
-&lt;p&gt;职工申请成功后，系统于次日（工作日）将提取资金转入职工本人联名（银行）卡，同时给职工发送资金到账提示短信。&lt;/p&gt;
-
-&lt;p&gt;南京住房公积金管理中心办公室        2017年8月23日印发&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scholarNetwork: Visualizing Google Scholar Network</title>
-      <link>https://chengjunwang.com/post/en/2015-02-22-scholarnetwork/</link>
-      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/post/en/2015-02-22-scholarnetwork/</guid>
-      <description>
-
-&lt;p&gt;#scholarNetwork&lt;/p&gt;
-
-&lt;p&gt;Developed by Cheng-Jun Wang &amp;amp; Lingfei Wu&lt;/p&gt;
-
-&lt;p&gt;Cheng-Jun Wang wangchj04@gmail.com
-Lingfei Wu wlf850927@gmail.com&lt;/p&gt;
-
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;scholarNetwork is a python package for crawling and visualizing the co-author network of Google Scholar.&lt;/p&gt;
-
-&lt;p&gt;To use it, you must have access to Google Scholar, and you would also install beautifulsoup4 and networkx during the installation process.&lt;/p&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;Install from pypi using pip or easy_install&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;     pip install scholarNetwork
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/gcushen/hugo-academic.git themes/academic
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;or&lt;/p&gt;
+&lt;p&gt;Or alternatively, &lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;download Academic&lt;/a&gt; and extract it into a &lt;code&gt;themes/academic&lt;/code&gt; folder within your Hugo website.&lt;/p&gt;&lt;/li&gt;
 
-&lt;pre&gt;&lt;code&gt;     easy_install scholarNetwork
+&lt;li&gt;&lt;p&gt;If you are creating a new website, copy the contents of the &lt;code&gt;exampleSite&lt;/code&gt; folder to your website root folder, overwriting existing files if necessary. The &lt;code&gt;exampleSite&lt;/code&gt; folder contains an example config file and content to help you get started.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cp -av themes/academic/exampleSite/* .
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start the Hugo server from your website root folder:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;##Use&lt;/p&gt;
+&lt;p&gt;Now you can go to &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website should appear.&lt;/p&gt;&lt;/li&gt;
 
-&lt;pre&gt;&lt;code&gt;    from scholarNetwork import scholarNetwork
-    import matplotlib.pyplot as plt
-    import networkx as nx
+&lt;li&gt;&lt;p&gt;Customize your website - refer to the &lt;em&gt;Getting Started&lt;/em&gt; section below&lt;/p&gt;&lt;/li&gt;
 
-    ## The seed of crawler
-    seed = &#39;https://scholar.google.nl/citations?user=nNdt_G8AAAAJ&amp;amp;hl=en&amp;amp;oe=ASCII&#39;
-    ## How many nodes do you want to visulize? Always start with a small one.
-    Nmax = 21
-    ## Get the graph g
-    g = scholarNetwork.getGraph(seed, Nmax)
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt;. Or alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as your university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-    ## plot the network
-    pos=nx.spring_layout(g) #setup the layout
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
 
-    nx.draw(g, pos, node_shape = &#39;o&#39;,
-            edge_color = &#39;gray&#39;, width = 0.5,
-            with_labels = True, arrows = True)
-    plt.show()
+&lt;p&gt;Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it.&lt;/p&gt;
+
+&lt;h3 id=&#34;core-parameters&#34;&gt;Core parameters&lt;/h3&gt;
+
+&lt;p&gt;The core parameters for the website can be edited in the &lt;code&gt;config.toml&lt;/code&gt; configuration file:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Set &lt;code&gt;baseurl&lt;/code&gt; to your website URL (we recommend &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; for free hosting)&lt;/li&gt;
+&lt;li&gt;Set &lt;code&gt;title&lt;/code&gt; to your desired website title such as your name&lt;/li&gt;
+&lt;li&gt;The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; shortname to enable commenting&lt;/li&gt;
+&lt;li&gt;Edit your details under &lt;code&gt;[params]&lt;/code&gt;; these will be displayed mainly in the homepage &lt;em&gt;about&lt;/em&gt; and &lt;em&gt;contact&lt;/em&gt; widgets (if used). To disable a contact field, simply clear the value to &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Place a square cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults. Note that you can edit the &lt;code&gt;avatar&lt;/code&gt; filepath to point to a different image name or clear the value to disable the avatar feature. Alternatively, set &lt;code&gt;gravatar&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; to use the Gravatar/Wordpress avatar associated with your &lt;code&gt;email&lt;/code&gt; address.&lt;/li&gt;
+&lt;li&gt;To enable LaTeX math for your site, set &lt;code&gt;math = true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Social/academic networking links are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt;. They can be created or deleted as necessary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
+
+&lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
+
+&lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
+
+&lt;p&gt;Refer to our guide on using &lt;a href=&#34;/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
+
+&lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
+
+&lt;p&gt;Refer to our guide on &lt;a href=&#34;/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;themes&#34;&gt;Themes&lt;/h3&gt;
+
+&lt;p&gt;The following color themes are available and can be set by the &lt;code&gt;color_theme&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;code&gt;default&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;ocean&lt;/code&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34; alt=&#34;default theme&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34; alt=&#34;ocean theme&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;code&gt;forest&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;coffee&lt;/code&gt;  + &lt;code&gt;playfair&lt;/code&gt; font&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34; alt=&#34;forest theme&#34; /&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34; alt=&#34;coffee theme&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;code&gt;dark&lt;/code&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34; alt=&#34;dark theme&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The following font styles are available and can be set by the &lt;code&gt;font&lt;/code&gt; option in &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;default (modern)&lt;/li&gt;
+&lt;li&gt;classic (original Academic v1 style)&lt;/li&gt;
+&lt;li&gt;playfair (serif)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;customization-updating&#34;&gt;Customization &amp;amp; updating&lt;/h3&gt;
+
+&lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
+
+&lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
+
+&lt;p&gt;It is possible to carry out many customizations without touching any files in &lt;code&gt;themes/academic&lt;/code&gt;, making it easier to update the framework in the future.&lt;/p&gt;
+
+&lt;h3 id=&#34;navigation-menu&#34;&gt;Navigation menu&lt;/h3&gt;
+
+&lt;p&gt;The &lt;code&gt;[[menu.main]]&lt;/code&gt; entries towards the bottom of &lt;code&gt;config.toml&lt;/code&gt; define the navigation links at the top of the website. They can be added or removed as desired.&lt;/p&gt;
+
+&lt;p&gt;To create a dropdown sub-menu, add &lt;code&gt;identifier = &amp;quot;something&amp;quot;&lt;/code&gt; to the parent item and &lt;code&gt;parent = &amp;quot;something&amp;quot;&lt;/code&gt; to the child item.&lt;/p&gt;
+
+&lt;h3 id=&#34;website-icon&#34;&gt;Website icon&lt;/h3&gt;
+
+&lt;p&gt;Save your main icon and mobile icon as square PNG images named &lt;code&gt;icon.png&lt;/code&gt; and &lt;code&gt;apple-touch-icon.png&lt;/code&gt;, respectively. Place them in your root &lt;code&gt;static/img/&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h3 id=&#34;analytics&#34;&gt;Analytics&lt;/h3&gt;
+
+&lt;p&gt;To enable &lt;a href=&#34;http://www.google.com/analytics&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;third-party-and-local-scripts-js&#34;&gt;Third party and local scripts (JS)&lt;/h3&gt;
+
+&lt;p&gt;To add a third party script, create a file named &lt;code&gt;head_custom.html&lt;/code&gt; in a &lt;code&gt;layouts/partials/&lt;/code&gt; folder at the root of your website (not in the &lt;code&gt;themes&lt;/code&gt; folder). Any HTML code added to this file will be included within your website&amp;rsquo;s &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. Therefore, it&amp;rsquo;s suitable for adding custom metadata or third party scripts specified with the &lt;em&gt;async&lt;/em&gt; attribute.&lt;/p&gt;
+
+&lt;p&gt;Whereas for your own local scripts, you can link your local JS assets (relative to your root &lt;code&gt;static/js&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_js  = [&amp;quot;custom.js&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;language-and-translation&#34;&gt;Language and translation&lt;/h3&gt;
+
+&lt;p&gt;The interface text (e.g. buttons) is stored in language files which are collected from Academic&amp;rsquo;s &lt;code&gt;themes/academic/i18n/&lt;/code&gt; folder, as well as an &lt;code&gt;i18n/&lt;/code&gt; folder at the root of your project.&lt;/p&gt;
+
+&lt;p&gt;To edit the interface text, copy &lt;code&gt;themes/academic/i18n/en.yaml&lt;/code&gt; to &lt;code&gt;i18n/en.yaml&lt;/code&gt; (relative to the root of your website). Open the new file and make any desired changes to the text appearing after &lt;code&gt;translation:&lt;/code&gt;. Note that the language files are formatted in YAML syntax.&lt;/p&gt;
+
+&lt;p&gt;To translate the interface text to another language, follow the above instructions, but name the new file in the form &lt;code&gt;i18n/X.yaml&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then follow the brief instructions in the &lt;em&gt;Language&lt;/em&gt; section at the bottom of your &lt;code&gt;config.toml&lt;/code&gt;. To change the default language used by Academic, set &lt;code&gt;defaultContentLanguage&lt;/code&gt; to the desired language identifier in your configuration file.&lt;/p&gt;
+
+&lt;p&gt;To translate the navigation bar, you can edit the default &lt;code&gt;[[menu.main]]&lt;/code&gt; instances in &lt;code&gt;config.toml&lt;/code&gt;. However, for a multilingual site, you will need to duplicate all of the &lt;code&gt;[[menu.main]]&lt;/code&gt; instances and rename the new instances from &lt;code&gt;[[menu.main]]&lt;/code&gt; to &lt;code&gt;[[Languages.X.menu.main]]&lt;/code&gt;, where &lt;code&gt;X&lt;/code&gt; is the language identifier (e.g. &lt;code&gt;[[Languages.zh.menu.main]]&lt;/code&gt; for Simplified Chinese). Thus, the navigation bar can be displayed in multiple languages.&lt;/p&gt;
+
+&lt;p&gt;To translate a content file in your &lt;code&gt;content/&lt;/code&gt; folder into another language, copy the file to &lt;code&gt;filename.X.md&lt;/code&gt; where &lt;code&gt;filename&lt;/code&gt; is your existing filename and &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then translate the content in the new file to the specified language.&lt;/p&gt;
+
+&lt;p&gt;For further details on Hugo&amp;rsquo;s internationalization and multilingual features, refer to the &lt;a href=&#34;https://gohugo.io/content/multilingual/&#34; target=&#34;_blank&#34;&gt;associated Hugo documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;permalinks&#34;&gt;Permalinks&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Permalinks&lt;/em&gt;, or &lt;em&gt;permanent links&lt;/em&gt;, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo&amp;rsquo;s &lt;em&gt;permalinks&lt;/em&gt; option these can be easily customized. For example, the blog post URL can be changed to the form &lt;em&gt;yourURL/2016/05/01/my-post-slug&lt;/em&gt; by adding the following near the top of your &lt;code&gt;config.toml&lt;/code&gt; (before &lt;code&gt;[params]&lt;/code&gt; settings):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[permalinks]
+    post = &amp;quot;/:year/:month/:day/:slug&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://chengjun.qiniudn.com/example.png&#34; alt=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Where &lt;code&gt;:slug&lt;/code&gt; defaults to the filename of the post, excluding the file extension. However, slug may be overridden on a per post basis if desired, simply by setting &lt;code&gt;slug = &amp;quot;my-short-post-title&amp;quot;&lt;/code&gt; in your post preamble.&lt;/p&gt;
 
-&lt;p&gt;Of course, you can get a much larger graph to see what&amp;rsquo;s happening around you, just to change the value of Nmax. However, you have to be patient to wait for much longer time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example 2:&lt;/strong&gt; let&amp;rsquo;s consider changing the URL path of posts from &lt;code&gt;post/&lt;/code&gt; to &lt;code&gt;blog/&lt;/code&gt;. First, add the following parameters right above the &lt;code&gt;[params]&lt;/code&gt; section of your &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://chengjun.qiniudn.com/ego300large.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[permalinks]
+    post = &amp;quot;/blog/:slug&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then add &lt;code&gt;aliases = [&amp;quot;/blog/&amp;quot;]&lt;/code&gt; to your post archive page &lt;code&gt;post/_index.md&lt;/code&gt; so that it can be accessed from the &lt;em&gt;/blog/&lt;/em&gt; URL.&lt;/p&gt;
+
+&lt;h3 id=&#34;advanced-style-customization-css&#34;&gt;Advanced style customization (CSS)&lt;/h3&gt;
+
+&lt;p&gt;For advanced customization of the style, you can link custom CSS assets (relative to your root &lt;code&gt;static/css&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_css = [&amp;quot;custom.css&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;For example, let&amp;rsquo;s override some of Academic&amp;rsquo;s default styles. First, define &lt;code&gt;custom_css = [&amp;quot;override.css&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. Then we can create the file &lt;code&gt;static/css/override.css&lt;/code&gt;, relative to your website root (i.e. &lt;strong&gt;not&lt;/strong&gt; in the &lt;code&gt;themes&lt;/code&gt; directory). Add your custom CSS to this file.&lt;/p&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/tags/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory, or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;Before updating for the first time, the remote &lt;em&gt;origin&lt;/em&gt; repository should be renamed to &lt;em&gt;upstream&lt;/em&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd themes/academic
+$ git remote rename origin upstream
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To list available updates:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd themes/academic
+$ git fetch upstream
+$ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, update by running:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git pull upstream
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you have modified files in &lt;code&gt;themes/academic&lt;/code&gt;, git will attempt to auto-merge changes. If conflicts are reported, you will need to manually edit the files with conflicts and add them back (&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;If there are any issues after updating, you may wish to compare your site with the latest &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;example site&lt;/a&gt; to check if any settings changed in &lt;code&gt;config.toml&lt;/code&gt; or the &lt;code&gt;+++&lt;/code&gt; frontmatter of content files.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For general questions about Hugo, there is a &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2017 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>自我介绍</title>
-      <link>https://chengjunwang.com/note/note_archive/2015-08-13-self-intro/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://chengjunwang.com/note/note_archive/2015-08-13-self-intro/</guid>
-      <description>&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/9a9fb654d7fda814f7120820149af236.png&#34; alt=&#34;pic&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cheng-Jun Wang (Nanjing University)&lt;/p&gt;
-
-&lt;p&gt;Dr. Cheng-Jun Wang got his Ph.D degree of Media and Communication from City University of Hong Kong in 2014. He received his bachelor degree from Lanzhou University in 2008 and his master degree from Peking University in 2010. He joined Nanjing University as an assistant research fellow in 2014. Cheng-Jun Wang has served as the director of Ogilvy Data Science Lab, Computational Communication Collaboratory, since 2014, and currently he is an associate professor. His research on computational communication appears in both SSCI and SCI indexed journals, such as Scientific Reports, PloS ONE, Physica A, Cyberpsychology, and Journal of Social and Personal Relationships.&lt;/p&gt;
-
-&lt;p&gt;王成军&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;通讯地址：南京市汉口路22号南京大学新闻传播学院A306&lt;/li&gt;
-&lt;li&gt;邮编：210093&lt;/li&gt;
-&lt;li&gt;Email: wangchj04@gmail.com&lt;/li&gt;
-&lt;li&gt;所在系：新闻与新媒体系&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;个人简历&#34;&gt;个人简历&lt;/h1&gt;
-
-&lt;p&gt;王成军，传播学博士。现为&lt;a href=&#34;http://jc.nju.edu.cn&#34; target=&#34;_blank&#34;&gt;南京大学新闻传播学院&lt;/a&gt;副教授、奥美数据科学实验室主任，&lt;a href=&#34;https://computational-communication.com/collaboratory/&#34; target=&#34;_blank&#34;&gt;计算传播学实验中心&lt;/a&gt;副主任、兼任香港城市大学&lt;a href=&#34;http://weblab.com.cityu.edu.hk&#34; target=&#34;_blank&#34;&gt;互联网挖掘实验室&lt;/a&gt;研究员。参与翻译《社会网络分析：方法与实践》(2013)、合著《社交网络上的计算传播学》(2015)。致力于采用计算社会科学视角研究人类传播行为，研究成果发表于SSCI和SCI索引的期刊，例如Scientific Reports、PloS ONE、Physica A、Cyberpsychology。2014年发起创建了&lt;a href=&#34;https://computational-communication.com&#34; target=&#34;_blank&#34;&gt;计算传播网&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;欢迎对计算社会科学、网络科学、文本挖掘、统计分析、数据挖掘、机器学习感兴趣的同学报考我的硕士或加入&lt;a href=&#34;https://computational-communication.com/collaboratory/&#34; target=&#34;_blank&#34;&gt;计算传播学实验中心&lt;/a&gt;。更多信息见个人网站：&lt;a href=&#34;https://chengjunwang.com/&#34;&gt;https://chengjunwang.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;研究领域&#34;&gt;研究领域：&lt;/h2&gt;
-
-&lt;p&gt;计算传播学；信息扩散；注意力流动；公共讨论；互联网数据挖掘&lt;/p&gt;
-
-&lt;h2 id=&#34;开设主要课程&#34;&gt;开设主要课程：&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;《数据新闻》&lt;/li&gt;
-&lt;li&gt;《计算传播》&lt;/li&gt;
-&lt;li&gt;《大数据挖掘与分析》&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;主持和参与科研项目&#34;&gt;主持和参与科研项目：&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;中国博士后科学基金面上项目（第57批，2015M571722), 找回失落的参考群体:对“沉默的螺旋”进行多主体建模，2015/01-&lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;, 5万元，主持&lt;/li&gt;
-&lt;li&gt;国家社会科学基金青年项目, 15CXW017, 媒体融合背景下舆论形成与扩散的网络门槛研究，2015/07-&lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt;, 20万元，主持&lt;/li&gt;
-&lt;li&gt;互联网上的集体注意力流研究，国家自然科学基金（常规面上项目），61673070，2017/01-&lt;sup&gt;2020&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt;,￥655200, 参与&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;出版专著&#34;&gt;出版专著：&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;许小可、胡海波、张伦、王成军 （2015）社交网络上的计算传播学. 北京：中国科学出版社.&lt;/li&gt;
-&lt;li&gt;王薇、王成军、王颖、刘璟 &lt;a href=&#34;2013&#34; target=&#34;_blank&#34;&gt;翻译&lt;/a&gt;. 社会网络分析：方法与实践. 北京：机械工业出版社&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;发表论文&#34;&gt;发表论文：&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wang, C.J., Wu, L*, Zhang, J., Janssen, M. (2016) The Collective Direction of Attention Diffusion. Scientific Reports. 6: 34059. doi:10.1038/srep34059&lt;/li&gt;
-&lt;li&gt;Wu, L., Wang, C.J. * (2016) Tracing the Attention of Moving Citizens. Scientific Reports. 6, 33103. doi: 10.1038/srep33103&lt;/li&gt;
-&lt;li&gt;Wang, C.J., Wu, L.*(2016) The Scaling of Attention Networks. Physica A: Statistical Mechanics and its Applications.448:196–204, doi: 10.1016/j.physa.2015.12.081&lt;/li&gt;
-&lt;li&gt;Chandra, Y.*, Jiang, C.L., Wang, C.J. (2016) Mining Social Entrepreneurship Strategies Using Topic Modeling, PLOS ONE, 11(3):e0151342, doi: 10.1371/journal.pone.0151342&lt;/li&gt;
-&lt;li&gt;Jiang, C.L*, Yang, M, Wang, C.J. (2017) Self-Disclosure to Parents in Emerging Adulthood: Examining the Roles of Perceived Parental Responsiveness and Separation-Individuation. Journal of Social and Personal Relationships. 34(4): 425-445. doi: 10.1177 /0265407516640603&lt;/li&gt;
-&lt;li&gt;Wang, C.J. *, Wang, P.P, Zhu, J.J.H (2013). Discussing Occupy Wall Street on Twitter: Longitudinal network analysis of equality, emotion, and stability of public discussion. Cyberpsychology, Behavior, and Social Networking, 16(9): 679-685. doi:10.1089/cyber.2012.0409. [SSCI, Ranking &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;72&lt;/sub&gt; in Communication by 5-year IF].&lt;/li&gt;
-&lt;li&gt;王成军 (2017).计算社会科学视野下的新闻学研究：挑战与机遇. 新闻大学, 4:26-32&lt;/li&gt;
-&lt;li&gt;杜骏飞, 曲飞帆, 王成军（2016）2015年中国新闻传播学论著评析. 新闻与传播研究，12:108-119&lt;/li&gt;
-&lt;li&gt;王成军 (2016) 大数据计算与《纸牌屋》生成. 传媒评论. 5:63-66&lt;/li&gt;
-&lt;li&gt;王成军 (2016) 计算传播学的起源、概念与应用. 编辑学刊,3:59-64.&lt;/li&gt;
-&lt;li&gt;王成军（2015）计算传播学: 作为计算社会科学的传播学.中国网络传播研究,8:193-208.&lt;/li&gt;
-&lt;li&gt;王成军（2015）“今日头条”的技术逻辑: 网络爬虫+矩阵筛选.传媒评论,10:34-37.&lt;/li&gt;
-&lt;li&gt;祝建华,彭泰权,梁海,王成军,秦洁,陈鹤鑫 (2014) 计算社会科学在新闻传播研究中的应用. 科研信息化技术与应用. 5 (2), 3-13&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;所获奖励荣誉&#34;&gt;所获奖励荣誉：&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)&lt;/li&gt;
-&lt;li&gt;Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)&lt;/li&gt;
-&lt;li&gt;Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)&lt;/li&gt;
-&lt;li&gt;Outstanding Academic Performance Award for Research Degree Students (OAPA, Aug, 2012)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;简历&#34;&gt;简历&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://chengjunwang.com/img/qiniu/b8f013d97c7b8b40e69ea94d1029855a.png&#34; alt=&#34;近照&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;王成军，博士，南京大学新闻传播学院助理研究员。奥美数据科学实验室主任、计算传播学实验中心研究员、香港城市大学互联网数据挖掘实验室研究员、集智俱乐部核心成员。参与翻译《社会网络分析：方法与实践》(2013)、合著《社交网络上的计算传播学》（2015）。致力于采用计算社会科学视角研究人类传播行为，其研究成果发表于SSCI/SCI期刊，例如Scientific Reports、PloS ONE、Physica A、Cyberpsychology和Journal of Social and Personal Relationships。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;计算传播网（&lt;a href=&#34;http://computational-communication.com）。&#34; target=&#34;_blank&#34;&gt;http://computational-communication.com）。&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;计算传播学实验中心（&lt;a href=&#34;http://ccc.nju.edu.cn:8089)&#34; target=&#34;_blank&#34;&gt;http://ccc.nju.edu.cn:8089)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;对数据科学感兴趣，主要采用python和R编程，写了一个R包和两个python包：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;networkdiffusion（&lt;a href=&#34;https://github.com/chengjun/networkdiffusion）&#34; target=&#34;_blank&#34;&gt;https://github.com/chengjun/networkdiffusion）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;iching (&lt;a href=&#34;https://pypi.python.org/pypi/iching&#34; target=&#34;_blank&#34;&gt;https://pypi.python.org/pypi/iching&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;scholarNetwork (&lt;a href=&#34;https://pypi.python.org/pypi/scholarNetwork/&#34; target=&#34;_blank&#34;&gt;https://pypi.python.org/pypi/scholarNetwork/&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;研究领域：计算传播学，致力于采用计算社会科学地研究方法分析人类传播行为，具体包括社会化媒体与信息扩散、公共讨论、注意力流动、互联网数据挖掘等。&lt;/p&gt;
-
-&lt;p&gt;开设主要课程： 计算传播学导论》、《计算传播与广告》、《数据新闻》等。&lt;/p&gt;
-
-&lt;p&gt;通讯地址：南京市汉口路22号南京大学新闻传播学院A306 邮编：210093&lt;/p&gt;
-
-&lt;p&gt;Email: wangchj04@gmail.com&lt;/p&gt;
-
-&lt;p&gt;所在系：新闻与新媒体系&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;老师最开始为何选择了传播学这个专业呢？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;我选择传播学专业是一个偶然，因为我大学二年级想要转一个专业，而此时已经错过了转专业的时间，恰好新闻学院有一个2+2的项目，就是在原来专业基础上，只需要用两年时间学完专业课。通过选拔考试后，我就转到网络新闻专业，算是进入了传播学的专业。之后，考研、申请博士都要考虑怎么才能发挥自己的既有的知识储备，于是硕士读了一个媒体经营管理的方向。读硕士是一个转折点，因为我的硕士老板很强调数据分析技能的培养和“社会学的想象力”，于是开始做一些小的研究项目。我就钻进书丛，读各种和数据分析和社会科学理论相关的书。在北大和人大的方法类的暑期班里听了不少课。硕士毕业那年，香港城市大学的祝建华老师来京做博士招生的宣讲。我很感兴趣就申请了香港的传播学博士项目。博士毕业之后先在腾讯实习了半年，后来就到南京大学新闻传播学院做助理研究员。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;又为何选择计算传播学作为研究方向？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;计算传播学也非我有意识地选择的结果。我对扩散现象一直感兴趣，从沙堆到信息扩散，我一直认为这里面有很多值得挖掘的地方。来到香港读博之后，我主要在互联网挖掘实验室从事研究工作。读格兰诺维特的论文时，读到门槛模型，与我在读复杂性科学地书籍时所接触到多主体模型等都有关联。2008年正是社会化媒体方兴未艾大放异彩的时候，我想我或许可以采用这个模型来分析社会化媒体上的信息扩散。于是，开始分析各种基于互联网的人类传播行为数据，主要是Digg, Youtube, Twitter和Sina Weibo。恰逢计算机科学家转向这条主线的研究，于是读了很多类似文章。但我对计算机科学家做社会科学研究很不满，因为多数研究都是会议论文，其研究发现往往不够深刻，这部分工作具有很强的数据科学的特点，强调数据挖掘和机器学习技术的使用；同时，我也注意到物理学家对于人类传播行为的研究工作，主要是统计物理和网络科学部分。对我影响最大的依然是网络科学，因为我分析信息扩散的起点就是基于关系网络和信息扩散网络展开。网络科学无疑提供了理想的工具；除此之外，计算语言学的工作使得对于传播文本的挖掘更加系统，例如主题模型鼓舞了计算人文学科的发展。与此同时，我开始放弃mathematica，学习R语言，后来又转向python语言（因为要抓数据）。如何概括类似这些研究范式？我们一度采用了各种标签，比如统计物理、人类动力学、社会物理学、社会计算，但都不贴切。2011年，我在和实验室的同学和老师讨论之后，提出了computational communication的提法，就有了计算传播学。当然，此时距离Lazer等人在2009年提出计算社会科学已经是三年之后了。之后，大家发现这个提法很好地概括了我们的研究兴趣和研究方向，于是就慢慢开始使用这个词语。2012年建立了豆瓣计算传播学小站。2013年，互联网挖掘实验室推出了一系列的计算传播研究工作坊，2014年我到南大之后，筹建了现在计算传播学实验研究中心。我们开始参与一些计算社会科学为主题的国际会议，在与其他学科的研究者交流的时候，采用计算传播学研究者介绍自己的工作。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;老师港城大毕业后，选择留在了象牙塔任教，而非进入公司。不知道这里面又有什么样的考量？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;研究兴趣占了很大比重。我在腾讯的数据挖掘部门实习了半年，后来拿到了他们的offer。腾讯正在急于建设一个连接人和物的互联网公司，很多研究问题都涉及到网络科学。他们对于采用传播的视角建立数据科学模型充满兴趣。但腾讯与百度、阿里相比更为注重实务，所以原来的腾讯研究院被分拆了，在腾讯工作就要面临业务和研究两边跑的问题。与此同时，国内高校也意识到“大数据传播”、数据新闻、计算广告的重要性，也提出一些不错的offer。我一度想去公司，后来博士老板建议我先去高校，家人也希望我能离家近一些，多一些时间照顾家人。当然，他们不知道做研究虽然时间灵活，但更费时间。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;老师最近正在看的一本书是什么？以及自己选择看这本书的原因？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;《社交网络上的计算传播学》，这本书刚刚出版，已经可以订购。这本书是第一本和计算传播直接相关的书，较为系统地整理了关于采用计算传播学视角分析社交网络的理论、方法和工具。另外，也这是我参与编著的第一本书（此处是硬广），之前看的都是电子稿，买几本纸本帮助我备课，还有看看如果出第二版怎么改。&lt;/p&gt;
-
-&lt;p&gt;最后要提醒老师一下，讲座的最后会请您推荐3本与这次讲座相关的书籍。&lt;/p&gt;
-
-&lt;p&gt;-《网络、群体与市场》、《社交网络上的计算传播学》、《计算广告》&lt;/p&gt;
-
-&lt;h2 id=&#34;研究方向&#34;&gt;研究方向&lt;/h2&gt;
-
-&lt;p&gt;作为一个新人，提所谓的大词是没有什么意义的，重要的是解决问题。解决中层问题是非常关键的。一个理想的研究者的视野是橄榄球形状的。两端小中间大。分为三层：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;底层：模型和方法（如物理模型）&lt;/li&gt;
-&lt;li&gt;中层：研究问题 （令飞选了知识生产，如讨论网络、问答网络、引文网络）&lt;/li&gt;
-&lt;li&gt;高层：研究视野（如注意力科学、计算传播学）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;通常容易欠缺的是中层的研究问题。什么是中层问题？为什么要选中层问题？中层问题可以较好的建立自己的生态位，可以做的东西太多了，人的精力却很有限。&lt;/p&gt;</description>
     </item>
     
   </channel>
